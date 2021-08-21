@@ -1,0 +1,121 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,,,,,,,,,,,,,0.009,,,,,,0.009,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,true,,,,,,,,,,,,,0.028,,,,,,0.028,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,,,,,,,,,,,,,0.046,,,,,,0.046,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,,,,,,,,,,,,,0.25,,,,,,0.25,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,,,,,,,,,,,,,0.38,,,,,,0.38,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,,,,,,,,,,,,,0.43,,,,,,0.43,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,,,,,,,,,,,,,0.49,,,,,,0.49,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,,,,,,,,,,,,,0.64,,,,,,0.64,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2017,true,,,,,,,,,,,,,1.24,,,,,,1.24,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,true,,,,,,,,,,,,,1.79,,,,,,1.79,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2017,true,,,,,,,,,,,,,1.83,,,,,,1.83,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2017,true,,,,,,,,,,,,,1.89,,,,,,1.89,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,,,,,,,,,,,,,109.5,,,,,,109.5,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,,,,,,,,,,,,,2.15,,,,,,2.15,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2017,true,,,,,,,,,,,,,2.4,,,,,,2.4,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,,,,,,,,,,,,,4.55,,,,,,4.55,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,FRA,France,Year,2017,true,,,,,,,,,,,,,48.7,,,,,,48.7,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,,,,,,,,,,,,,48.74,,,,,,48.74,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,,,,,,,,,,,,,5.17,,,,,,5.17,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GUY,Guyana,Year,2016,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,true,,,,,,,,,,,,,0.008,,,,,,0.008,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MLI,Mali,Year,2016,true,,,,,,,,,,,,,0.011,,,,,,0.011,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NER,Niger,Year,2016,true,,,,,,,,,,,,,0.019,,,,,,0.019,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,COG,Congo,Year,2016,true,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,true,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,true,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,true,,,,,,,,,,,,,0.031,,,,,,0.031,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,true,,,,,,,,,,,,,0.037,,,,,,0.037,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,true,,,,,,,,,,,,,0.057,,,,,,0.057,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,true,,,,,,,,,,,,,0.062,,,,,,0.062,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,true,,,,,,,,,,,,,0.065,,,,,,0.065,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,true,,,,,,,,,,,,,0.069,,,,,,0.069,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,true,,,,,,,,,,,,,0.081,,,,,,0.081,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,true,,,,,,,,,,,,,0.083,,,,,,0.083,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2016,true,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,true,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,true,,,,,,,,,,,,,0.12,,,,,,0.12,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,true,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,AGO,Angola,Year,2016,true,,,,,,,,,,,,,0.18,,,,,,0.18,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,true,,,,,,,,,,,,,0.26,,,,,,0.26,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,true,,,,,,,,,,,,,0.26,,,,,,0.26,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,true,,,,,,,,,,,,,0.3,,,,,,0.3,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,true,,,,,,,,,,,,,0.39,,,,,,0.39,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,true,,,,,,,,,,,,,0.39,,,,,,0.39,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TGO,Togo,Year,2016,true,,,,,,,,,,,,,0.4,,,,,,0.4,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,true,,,,,,,,,,,,,0.41,,,,,,0.41,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,true,,,,,,,,,,,,,0.41,,,,,,0.41,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,true,,,,,,,,,,,,,0.52,,,,,,0.52,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,true,,,,,,,,,,,,,0.54,,,,,,0.54,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2016,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,true,,,,,,,,,,,,,0.57,,,,,,0.57,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,true,,,,,,,,,,,,,0.76,,,,,,0.76,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,true,,,,,,,,,,,,,0.76,,,,,,0.76,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,true,,,,,,,,,,,,,0.78,,,,,,0.78,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,true,,,,,,,,,,,,,0.79,,,,,,0.79,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2016,true,,,,,,,,,,,,,0.88,,,,,,0.88,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,true,,,,,,,,,,,,,1.03,,,,,,1.03,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,1.07,,,,,,1.07,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BLZ,Belize,Year,2016,true,,,,,,,,,,,,,1.11,,,,,,1.11,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,true,,,,,,,,,,,,,1.16,,,,,,1.16,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ALB,Albania,Year,2016,true,,,,,,,,,,,,,1.23,,,,,,1.23,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,true,,,,,,,,,,,,,1.27,,,,,,1.27,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,true,,,,,,,,,,,,,1.41,,,,,,1.41,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,true,,,,,,,,,,,,,1.44,,,,,,1.44,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ROU,Romania,Year,2016,true,,,,,,,,,,,,,1.48,,,,,,1.48,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,true,,,,,,,,,,,,,1.59,,,,,,1.59,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,true,,,,,,,,,,,,,1.75,,,,,,1.75,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2016,true,,,,,,,,,,,,,1.87,,,,,,1.87,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2016,true,,,,,,,,,,,,,1.88,,,,,,1.88,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,true,,,,,,,,,,,,,11.46,,,,,,11.46,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,true,,,,,,,,,,,,,12.37,,,,,,12.37,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,true,,,,,,,,,,,,,142,,,,,,142,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,LTU,Lithuania,Year,2016,true,,,,,,,,,,,,,15.86,,,,,,15.86,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,POL,Poland,Year,2016,true,,,,,,,,,,,,,16.35,,,,,,16.35,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,true,,,,,,,,,,,,,2.03,,,,,,2.03,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,true,,,,,,,,,,,,,2.08,,,,,,2.08,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,true,,,,,,,,,,,,,2.33,,,,,,2.33,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,HUN,Hungary,Year,2016,true,,,,,,,,,,,,,2.48,,,,,,2.48,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,TUR,Turkey,Year,2016,true,,,,,,,,,,,,,2.54,,,,,,2.54,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ARG,Argentina,Year,2016,true,,,,,,,,,,,,,222.6,,,,,,222.6,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,USA,United States of America,Year,2016,true,,,,,,,,,,,,,29.86,,,,,,29.86,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2016,true,,,,,,,,,,,,,3.04,,,,,,3.04,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,true,,,,,,,,,,,,,3.07,,,,,,3.07,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SYC,Seychelles,Year,2016,true,,,,,,,,,,,,,3.2,,,,,,3.2,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,true,,,,,,,,,,,,,3.46,,,,,,3.46,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CUB,Cuba,Year,2016,true,,,,,,,,,,,,,31.06,,,,,,31.06,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,true,,,,,,,,,,,,,4.37,,,,,,4.37,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,true,,,,,,,,,,,,,46.15,,,,,,46.15,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,true,,,,,,,,,,,,,5.03,,,,,,5.03,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BLR,Belarus,Year,2016,true,,,,,,,,,,,,,5.51,,,,,,5.51,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MCO,Monaco,Year,2016,true,,,,,,,,,,,,,53.52,,,,,,53.52,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,EST,Estonia,Year,2016,true,,,,,,,,,,,,,6.46,,,,,,6.46,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,true,,,,,,,,,,,,,7.09,,,,,,7.09,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,PAN,Panama,Year,2016,true,,,,,,,,,,,,,7.33,,,,,,7.33,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,true,,,,,,,,,,,,,7.6,,,,,,7.6,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,true,,,,,,,,,,,,,7.66,,,,,,7.66,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,NOR,Norway,Year,2016,true,,,,,,,,,,,,,73.52,,,,,,73.52,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,GRC,Greece,Year,2016,true,,,,,,,,,,,,,8.78,,,,,,8.78,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ISR,Israel,Year,2016,true,,,,,,,,,,,,,88.09,,,,,,88.09,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SVN,Slovenia,Year,2016,true,,,,,,,,,,,,,9.3,,,,,,9.3,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,PER,Peru,Year,2016,true,,,,,,,,,,,,,9.51,,,,,,9.51,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,true,,,,,,,,,,,,,0.009,,,,,,0.009,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,JAM,Jamaica,Year,2015,true,,,,,,,,,,,,,0.38,,,,,,0.38,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,true,,,,,,,,,,,,,0.79,,,,,,0.79,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,true,,,,,,,,,,,,,0.91,,,,,,0.91,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,true,,,,,,,,,,,,,1.53,,,,,,1.53,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2015,true,,,,,,,,,,,,,103,,,,,,103,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,NLD,Netherlands,Year,2015,true,,,,,,,,,,,,,123.5,,,,,,123.5,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CZE,Czechia,Year,2015,true,,,,,,,,,,,,,2.52,,,,,,2.52,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,true,,,,,,,,,,,,,3.3,,,,,,3.3,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ITA,Italy,Year,2015,true,,,,,,,,,,,,,3.8,,,,,,3.8,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2015,true,,,,,,,,,,,,,4.64,,,,,,4.64,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,DEU,Germany,Year,2015,true,,,,,,,,,,,,,49.55,,,,,,49.55,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CHE,Switzerland,Year,2015,true,,,,,,,,,,,,,84.14,,,,,,84.14,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,HND,Honduras,Year,2014,true,,,,,,,,,,,,,0.62,,,,,,0.62,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,true,,,,,,,,,,,,,0.14,,,,,,0.14,,,EN,2019-04-25T05:00:00.000Z
+MH_9,"Psychologists working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BEL,Belgium,Year,2013,true,,,,,,,,,,,,,10.46,,,,,,10.46,,,EN,2019-04-25T05:00:00.000Z
