@@ -167,7 +167,9 @@
     </div>
 </div>
   </div>
+  
 <br>
+<hr>
  <!---Container for slider with suicide hotlines-->
  <h2>Hotlines and more help</h2>
  <div class="glider-contain multiple">
@@ -243,6 +245,20 @@
 </div>
 
 <br>
+<script src="../static/js/glider.min.js"></script>
+ 
+ <script>
+ new Glider(document.querySelector('.glider'), {
+  slidesToShow: 4,
+  dots: '#dots',
+  draggable: true,
+  arrows: {
+    prev: ".glider-prev",
+    next: ".glider-next", 
+    resizeLock: true
+  }
+});
+</script>
 
 
 
