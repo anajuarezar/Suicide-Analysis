@@ -1,332 +1,332 @@
-Columna1,World Bank,WHO,OWID,ONU Dicc,ISO-alpha3 code,,,,,
-0,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG,VERDADERO,,,,
-1,Africa Eastern and Southern,,,,,FALSO,,,,
-2,Africa Western and Central,,,,,FALSO,,,,
-3,,,,Åland Islands,ALA,VERDADERO,,,,
-4,Albania,Albania,Albania,Albania,ALB,VERDADERO,,,,
-5,Algeria,Algeria,Algeria,Algeria,DZA,VERDADERO,,,,
-6,American Samoa,,American Samoa,American Samoa,ASM,VERDADERO,,,,
-7,,,Andean Latin America,,,FALSO,,,,
-8,Andorra,Andorra,Andorra,Andorra,AND,VERDADERO,,,,
-9,Angola,Angola,Angola,Angola,AGO,VERDADERO,,,,
-10,,,,Anguilla,AIA,VERDADERO,,,,
-11,,,,Antarctica,ATA,VERDADERO,,,,
-12,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ATG,VERDADERO,,,,
-13,Arab World,,,,,FALSO,,,,
-14,Argentina,Argentina,Argentina,Argentina,ARG,VERDADERO,,,,
-15,Armenia,Armenia,Armenia,Armenia,ARM,VERDADERO,,,,
-16,,,Australasia,,,FALSO,,,,
-17,Aruba,,,Aruba,ABW,FALSO,,,,
-18,Australia,Australia,Australia,Australia,AUS,VERDADERO,,,,
-19,Austria,Austria,Austria,Austria,AUT,VERDADERO,,,,
-20,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZE,VERDADERO,,,,
-21,"Bahamas, The",Bahamas,Bahamas,Bahamas,BHS,FALSO,,,,
-22,Bahrain,Bahrain,Bahrain,Bahrain,BHR,VERDADERO,,,,
-23,Bangladesh,Bangladesh,Bangladesh,Bangladesh,BGD,VERDADERO,,,,
-24,Barbados,Barbados,Barbados,Barbados,BRB,VERDADERO,,,,
-25,Belarus,Belarus,Belarus,Belarus,BLR,VERDADERO,,,,
-26,Belgium,Belgium,Belgium,Belgium,BEL,VERDADERO,,,,
-27,Belize,Belize,Belize,Belize,BLZ,VERDADERO,,,,
-28,Benin,Benin,Benin,Benin,BEN,VERDADERO,,,,
-29,Bermuda,,Bermuda,Bermuda,BMU,VERDADERO,,,,
-30,Bhutan,Bhutan,Bhutan,Bhutan,BTN,VERDADERO,,,,
-31,Bolivia,Bolivia (Plurinational State of),Bolivia,Bolivia (Plurinational State of),BOL,VERDADERO,,,,
-32,,,,"Bonaire, Sint Eustatius and Saba",BES,VERDADERO,,,,
-33,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,VERDADERO,,,,
-34,Botswana,Botswana,Botswana,Botswana,BWA,VERDADERO,,,,
-35,,,,Bouvet Island,BVT,VERDADERO,,,,
-36,Brazil,Brazil,Brazil,Brazil,BRA,VERDADERO,,,,
-37,,,,British Indian Ocean Territory,IOT,VERDADERO,,,,
-38,British Virgin Islands,,,British Virgin Islands,VGB,FALSO,,,,
-39,Brunei Darussalam,Brunei Darussalam,Brunei,Brunei Darussalam,BRN,FALSO,,,,
-40,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BGR,VERDADERO,,,,
-41,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BFA,VERDADERO,,,,
-42,Burundi,Burundi,Burundi,Burundi,BDI,VERDADERO,,,,
-43,Cabo Verde,Cabo Verde,,Cabo Verde,CPV,FALSO,,,,
-44,Cambodia,Cambodia,Cambodia,Cambodia,KHM,VERDADERO,,,,
-45,Cameroon,Cameroon,Cameroon,Cameroon,CMR,VERDADERO,,,,
-46,Canada,Canada,Canada,Canada,CAN,VERDADERO,,,,
-47,,,Cape Verde,,,FALSO,,,,
-48,,,Caribbean,,,FALSO,,,,
-49,Caribbean small states,,,,,FALSO,,,,
-50,Cayman Islands,,,Cayman Islands,CYM,FALSO,,,,
-51,Central African Republic,Central African Republic,Central African Republic,Central African Republic,CAF,VERDADERO,,,,
-52,,,Central Asia,,,FALSO,,,,
-53,,,Central Europe,,,FALSO,,,,
-54,,,"Central Europe, Eastern Europe, and Central Asia",,,FALSO,,,,
-55,,,Central Latin America,,,FALSO,,,,
-56,,,Central Sub-Saharan Africa,,,FALSO,,,,
-57,Central Europe and the Baltics,,,,,FALSO,,,,
-58,Chad,Chad,Chad,Chad,TCD,VERDADERO,,,,
-59,Channel Islands,,,,,FALSO,,,,
-60,Chile,Chile,Chile,Chile,CHL,VERDADERO,,,,
-61,China,China,China,China,CHN,VERDADERO,,,,
-62,,,,Christmas Island,CXR,VERDADERO,,,,
-63,,,,Cocos (Keeling) Islands,CCK,VERDADERO,,,,
-64,Colombia,Colombia,Colombia,Colombia,COL,VERDADERO,,,,
-65,Comoros,Comoros,Comoros,Comoros,COM,VERDADERO,,,,
-66,Congo,Congo,Congo,Congo,COG,VERDADERO,,,,
-67,"Congo, Dem. Rep.",Democratic Republic of the Congo,Democratic Republic of Congo,Democratic Republic of the Congo,COD,FALSO,,,,
-68,,Cook Islands,,Cook Islands,COK,VERDADERO,,,,
-69,Costa Rica,Costa Rica,Costa Rica,Costa Rica,CRI,VERDADERO,,,,
-70,Cote d'Ivoire,Côte d'Ivoire,Cote d'Ivoire,Côte d’Ivoire,CIV,VERDADERO,,,,
-71,Croatia,Croatia,Croatia,Croatia,HRV,VERDADERO,,,,
-72,Cuba,Cuba,Cuba,Cuba,CUB,VERDADERO,,,,
-73,Curacao,,,Curaçao,CUW,FALSO,,,,
-74,Cyprus,Cyprus,Cyprus,Cyprus,CYP,VERDADERO,,,,
-75,Czech Republic,Czechia,Czechia,Czechia,CZE,FALSO,,,,
-76,Denmark,Denmark,Denmark,Denmark,DNK,VERDADERO,,,,
-77,Djibouti,Djibouti,Djibouti,Djibouti,DJI,VERDADERO,,,,
-78,Dominica,Dominica,Dominica,Dominica,DMA,VERDADERO,,,,
-79,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOM,VERDADERO,,,,
-80,Early-demographic dividend,,,,,FALSO,,,,
-81,East Asia & Pacific,,,,,FALSO,,,,
-82,East Asia & Pacific (excluding high income),,,,,FALSO,,,,
-83,East Asia & Pacific (IDA & IBRD countries),,East Asia,,,FALSO,,,,
-84,,,Eastern Europe,,,FALSO,,,,
-85,,,Eastern Sub-Saharan Africa,,,FALSO,,,,
-86,Ecuador,Ecuador,Ecuador,Ecuador,ECU,VERDADERO,,,,
-87,,,England,,,FALSO,,,,
-88,"Egypt, Arab Rep.",Egypt,Egypt,Egypt,EGY,FALSO,,,,
-89,El Salvador,El Salvador,El Salvador,El Salvador,SLV,VERDADERO,,,,
-90,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GNQ,VERDADERO,,,,
-91,Eritrea,Eritrea,Eritrea,Eritrea,ERI,VERDADERO,,,,
-92,Estonia,Estonia,Estonia,Estonia,EST,VERDADERO,,,,
-93,Eswatini,Eswatini,Eswatini,Eswatini,SWZ,VERDADERO,,,,
-94,Ethiopia,Ethiopia,Ethiopia,Ethiopia,ETH,VERDADERO,,,,
-95,Euro area,,,,,FALSO,,,,
-96,Europe & Central Asia,,,,,FALSO,,,,
-97,Europe & Central Asia (excluding high income),,,,,FALSO,,,,
-98,Europe & Central Asia (IDA & IBRD countries),,,,,FALSO,,,,
-99,European Union,,,,,FALSO,,,,
-100,,,,Falkland Islands (Malvinas),FLK,VERDADERO,,,,
-101,Faroe Islands,,,Faroe Islands,FRO,FALSO,,,,
-102,Fiji,Fiji,Fiji,Fiji,FJI,VERDADERO,,,,
-103,Finland,Finland,Finland,Finland,FIN,VERDADERO,,,,
-104,Fragile and conflict affected situations,,,,,FALSO,,,,
-105,France,France,France,France,FRA,VERDADERO,,,,
-106,French Polynesia,,,French Polynesia,GUF,FALSO,,,,
-107,,,,French Guiana,PYF,VERDADERO,,,,
-108,,,,French Southern Territories,ATF,VERDADERO,,,,
-109,Gabon,Gabon,Gabon,Gabon,GAB,VERDADERO,,,,
-110,"Gambia, The",Gambia,Gambia,Gambia,GMB,FALSO,,,,
-111,Georgia,Georgia,Georgia,Georgia,GEO,VERDADERO,,,,
-112,Germany,Germany,Germany,Germany,DEU,VERDADERO,,,,
-113,Ghana,Ghana,Ghana,Ghana,GHA,VERDADERO,,,,
-114,Gibraltar,,,Gibraltar,GIB,FALSO,,,,
-115,Greece,Greece,Greece,Greece,GRC,VERDADERO,,,,
-116,Greenland,,Greenland,Greenland,GRL,VERDADERO,,,,
-118,Grenada,Grenada,Grenada,Grenada,GRD,VERDADERO,,,,
-119,,,,Guadeloupe,GLP,VERDADERO,,,,
-120,Guam,,Guam,Guam,GUM,VERDADERO,,,,
-121,Guatemala,Guatemala,Guatemala,Guatemala,GTM,VERDADERO,,,,
-122,,,,Guernsey,GGY,VERDADERO,,,,
-123,Guinea,Guinea,Guinea,Guinea,GIN,VERDADERO,,,,
-124,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GNB,VERDADERO,,,,
-125,Guyana,Guyana,Guyana,Guyana,GUY,VERDADERO,,,,
-126,Haiti,Haiti,Haiti,Haiti,HTI,VERDADERO,,,,
-128,Heavily indebted poor countries (HIPC),,,,,FALSO,,,,
-129,High income,,,,,FALSO,,,,
-130,,,,Heard Island and McDonald Islands,HMD,VERDADERO,,,,
-131,,,High SDI,,,FALSO,,,,
-132,,,High-income,,,FALSO,,,,
-133,,,High-income Asia Pacific,,,FALSO,,,,
-134,,,High-middle SDI,,,FALSO,,,,
-135,Honduras,Honduras,Honduras,Honduras,HND,VERDADERO,,,,
-136,"Hong Kong SAR, China",,,Hong Kong Special Administrative Region,HKG,FALSO,,,,
-137,Hungary,Hungary,Hungary,Hungary,HUN,VERDADERO,,,,
-138,IBRD only,,,,,FALSO,,,,
-139,Iceland,Iceland,Iceland,Iceland,ISL,VERDADERO,,,,
-140,IDA & IBRD total,,,,,FALSO,,,,
-141,IDA blend,,,,,FALSO,,,,
-142,IDA only,,,,,FALSO,,,,
-143,IDA total,,,,,FALSO,,,,
-144,India,India,India,India,IND,VERDADERO,,,,
-145,Indonesia,Indonesia,Indonesia,Indonesia,IDN,VERDADERO,,,,
-146,"Iran, Islamic Rep.",Iran (Islamic Republic of),Iran,Iran (Islamic Republic of),IRN,FALSO,,,,
-147,Iraq,Iraq,Iraq,Iraq,IRQ,VERDADERO,,,,
-148,Ireland,Ireland,Ireland,Ireland,IRL,VERDADERO,,,,
-149,Isle of Man,,,Isle of Man,IMN,FALSO,,,,
-150,Israel,Israel,Israel,Israel,ISR,VERDADERO,,,,
-151,Italy,Italy,Italy,Italy,ITA,VERDADERO,,,,
-152,Jamaica,Jamaica,Jamaica,Jamaica,JAM,VERDADERO,,,,
-153,Japan,Japan,Japan,Japan,JPN,VERDADERO,,,,
-154,,,,Jersey,JEY,VERDADERO,,,,
-155,Jordan,Jordan,Jordan,Jordan,JOR,VERDADERO,,,,
-156,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,KAZ,VERDADERO,,,,
-157,Kenya,Kenya,Kenya,Kenya,KEN,VERDADERO,,,,
-158,Kiribati,Kiribati,Kiribati,Kiribati,KIR,VERDADERO,,,,
-159,"Korea, Dem. People's Rep.",,North Korea,Democratic People's Republic of Korea,PRK,FALSO,,,,
-160,"Korea, Rep.",Republic of Korea,South Korea,Republic of Korea,KOR,FALSO,,,,
-161,Kosovo,,,,,FALSO,,,,
-162,Kuwait,Kuwait,Kuwait,Kuwait,KWT,VERDADERO,,,,
-163,Kyrgyz Republic,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KGZ,FALSO,,,,
-164,Lao PDR,Lao People's Democratic Republic,Laos,Lao People's Democratic Republic,LAO,FALSO,,,,
-165,Late-demographic dividend,,,,,FALSO,,,,
-166,Latin America & Caribbean,,Latin America and Caribbean,,,FALSO,,,,
-167,Latin America & Caribbean (excluding high income),,,,,FALSO,,,,
-168,Latin America & the Caribbean (IDA & IBRD countries),,,,,FALSO,,,,
-169,Latvia,Latvia,Latvia,Latvia,LVA,VERDADERO,,,,
-170,Least developed countries: UN classification,,,,,FALSO,,,,
-171,Lebanon,Lebanon,Lebanon,Lebanon,LBN,VERDADERO,,,,
-172,Lesotho,Lesotho,Lesotho,Lesotho,LSO,VERDADERO,,,,
-173,Liberia,Liberia,Liberia,Liberia,LBR,VERDADERO,,,,
-174,Libya,Libya,Libya,Libya,LBY,VERDADERO,,,,
-175,Liechtenstein,,,Liechtenstein,LIE,FALSO,,,,
-176,Lithuania,Lithuania,Lithuania,Lithuania,LTU,VERDADERO,,,,
-177,Low & middle income,,Low-middle SDI,,,FALSO,,,,
-178,Low income,,Low SDI,,,FALSO,,,,
-179,Lower middle income,,,,,FALSO,,,,
-180,Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX,VERDADERO,,,,
-181,"Macao SAR, China",,,Macao Special Administrative Region,MAC,FALSO,,,,
-182,Madagascar,Madagascar,Madagascar,Madagascar,MDG,VERDADERO,,,,
-183,Malawi,Malawi,Malawi,Malawi,MWI,VERDADERO,,,,
-184,Malaysia,Malaysia,Malaysia,Malaysia,MYS,VERDADERO,,,,
-185,Maldives,Maldives,Maldives,Maldives,MDV,VERDADERO,,,,
-186,Mali,Mali,Mali,Mali,MLI,VERDADERO,,,,
-187,Malta,Malta,Malta,Malta,MLT,VERDADERO,,,,
-188,Marshall Islands,,Marshall Islands,Marshall Islands,MHL,VERDADERO,,,,
-189,,,,Martinique,MTQ,VERDADERO,,,,
-190,Mauritania,Mauritania,Mauritania,Mauritania,MRT,VERDADERO,,,,
-191,Mauritius,Mauritius,Mauritius,Mauritius,MUS,VERDADERO,,,,
-192,,,,Mayotte,MYT,VERDADERO,,,,
-193,Mexico,Mexico,Mexico,Mexico,MEX,VERDADERO,,,,
-194,"Micronesia, Fed. Sts.",Micronesia (Federated States of),Micronesia (country),Micronesia (Federated States of),FSM,FALSO,,,,
-195,Middle East & North Africa,,,,,FALSO,,,,
-196,Middle East & North Africa (excluding high income),,,,,FALSO,,,,
-197,Middle East & North Africa (IDA & IBRD countries),,,,,FALSO,,,,
-198,Middle income,,Middle SDI,,,FALSO,,,,
-199,Moldova,Republic of Moldova,Moldova,Republic of Moldova,MDA,VERDADERO,,,,
-200,Monaco,,,Monaco,MCO,FALSO,,,,
-201,Mongolia,Mongolia,Mongolia,Mongolia,MNG,VERDADERO,,,,
-202,Montenegro,Montenegro,Montenegro,Montenegro,MNE,VERDADERO,,,,
-203,,,,Montserrat,MSR,VERDADERO,,,,
-204,Morocco,Morocco,Morocco,Morocco,MAR,VERDADERO,,,,
-205,Mozambique,Mozambique,Mozambique,Mozambique,MOZ,VERDADERO,,,,
-206,Myanmar,Myanmar,Myanmar,Myanmar,MMR,VERDADERO,,,,
-207,Namibia,Namibia,Namibia,Namibia,NAM,VERDADERO,,,,
-208,Nauru,Nauru,,Nauru,NRU,FALSO,,,,
-209,Nepal,Nepal,Nepal,Nepal,NPL,VERDADERO,,,,
-210,Netherlands,Netherlands,Netherlands,Netherlands,NLD,VERDADERO,,,,
-211,New Caledonia,,,New Caledonia,NCL,FALSO,,,,
-212,New Zealand,New Zealand,New Zealand,New Zealand,NZL,VERDADERO,,,,
-213,Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC,VERDADERO,,,,
-214,Niger,Niger,Niger,Niger,NER,VERDADERO,,,,
-215,Nigeria,Nigeria,Nigeria,Nigeria,NGA,VERDADERO,,,,
-216,,Niue,,Niue,NIU,VERDADERO,,,,
-217,,,,Norfolk Island,NFK,VERDADERO,,,,
-218,,,North Africa and Middle East,,,FALSO,,,,
-219,,,North Macedonia,North Macedonia,MKD,FALSO,,,,
-220,North America,,North America,,,VERDADERO,,,,
-221,,,,Northern Mariana Islands,MNP,VERDADERO,,,,
-222,North Macedonia,,,,,FALSO,,,,
-223,Northern Mariana Islands,Norway,,,,FALSO,,,,
-224,,,Northern Ireland,,,FALSO,,,,
-225,,,Northern Mariana Islands,,,FALSO,,,,
-226,Norway,,Norway,Norway,NOR,VERDADERO,,,,
-227,,,Oceania,,,FALSO,,,,
-228,Not classified,,,,,FALSO,,,,
-229,OECD members,,,,,FALSO,,,,
-230,Oman,Oman,Oman,Oman,OMN,VERDADERO,,,,
-231,Other small states,,,,,FALSO,,,,
-232,Pacific island small states,,,,,FALSO,,,,
-233,Pakistan,Pakistan,Pakistan,Pakistan,PAK,VERDADERO,,,,
-234,Palau,,,Palau,PLW,FALSO,,,,
-235,West Bank and Gaza,,Palestine,State of Palestine,PSE,FALSO,,,,
-236,Panama,Panama,Panama,Panama,PAN,VERDADERO,,,,
-237,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PNG,VERDADERO,,,,
-238,Paraguay,Paraguay,Paraguay,Paraguay,PRY,VERDADERO,,,,
-239,Peru,Peru,Peru,Peru,PER,VERDADERO,,,,
-240,Philippines,Philippines,Philippines,Philippines,PHL,VERDADERO,,,,
-241,,,,Pitcairn,PCN,VERDADERO,,,,
-242,Poland,Poland,Poland,Poland,POL,VERDADERO,,,,
-243,Portugal,Portugal,Portugal,Portugal,PRT,VERDADERO,,,,
-244,Post-demographic dividend,,,,,FALSO,,,,
-245,Pre-demographic dividend,,,,,FALSO,,,,
-246,Puerto Rico,,Puerto Rico,Puerto Rico,PRI,VERDADERO,,,,
-247,Qatar,Qatar,Qatar,Qatar,QAT,VERDADERO,,,,
-248,,,,Réunion,REU,VERDADERO,,,,
-249,Romania,Romania,Romania,Romania,ROU,VERDADERO,,,,
-250,Russian Federation,Russian Federation,Russia,Russian Federation,RUS,FALSO,,,,
-251,Rwanda,Rwanda,Rwanda,Rwanda,RWA,VERDADERO,,,,
-252,Samoa,Samoa,Samoa,Samoa,WSM,VERDADERO,,,,
-253,,,,Saint Barthélemy,BLM,VERDADERO,,,,
-254,,,,Saint Helena,SHN,VERDADERO,,,,
-255,St. Kitts and Nevis,Saint Kitts and Nevis,,Saint Kitts and Nevis,KNA,FALSO,,,,
-256,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,STP,VERDADERO,,,,
-257,,Saint Lucia,Saint Lucia,Saint Lucia,LCA,FALSO,,,,
-258,San Marino,,,San Marino,SMR,FALSO,,,,
-259,St. Martin (French part),,,Saint Martin (French Part),MAF,FALSO,,,,
-260,,,,Saint Pierre and Miquelon,SPM,VERDADERO,,,,
-261,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,FALSO,,,,
-262,,,,Sark,N/A,VERDADERO,,,,
-263,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU,VERDADERO,,,,
-264,,,Scotland,,,FALSO,,,,
-265,Senegal,Senegal,Senegal,Senegal,SEN,VERDADERO,,,,
-,Serbia,Serbia,Serbia,Serbia,SRB,VERDADERO,,,,
-,Seychelles,Seychelles,Seychelles,Seychelles,SYC,VERDADERO,,,,
-,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SLE,VERDADERO,,,,
-,Singapore,Singapore,Singapore,Singapore,SGP,VERDADERO,,,,
-,Sint Maarten (Dutch part),,,Sint Maarten (Dutch part),SXM,FALSO,,,,
-,Slovak Republic,Slovakia,Slovakia,Slovakia,SVK,FALSO,,,,
-,Slovenia,Slovenia,Slovenia,Slovenia,SVN,VERDADERO,,,,
-,Small states,,,,,FALSO,,,,
-,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,SLB,VERDADERO,,,,
-,Somalia,Somalia,Somalia,Somalia,SOM,VERDADERO,,,,
-,South Africa,South Africa,South Africa,South Africa,ZAF,VERDADERO,,,,
-,South Asia,,South Asia,,,VERDADERO,,,,
-,South Asia (IDA & IBRD),,,,,FALSO,,,,
-,,,,South Georgia and the South Sandwich Islands,SGS,VERDADERO,,,,
-,South Sudan,,South Sudan,,,VERDADERO,,,,
-,,,Southeast Asia,,,FALSO,,,,
-,,,"Southeast Asia, East Asia, and Oceania",,,FALSO,,,,
-,,,Southern Latin America,,,FALSO,,,,
-,,,Southern Sub-Saharan Africa,South Sudan,SSD,FALSO,,,,
-,Spain,Spain,Spain,Spain,ESP,VERDADERO,,,,
-,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,LKA,VERDADERO,,,,
-,Sub-Saharan Africa,,Sub-Saharan Africa,,,VERDADERO,,,,
-,Sub-Saharan Africa (excluding high income),,,,,FALSO,,,,
-,Sub-Saharan Africa (IDA & IBRD countries),,,,,FALSO,,,,
-,Sudan,Sudan,Sudan,Sudan,SDN,VERDADERO,,,,
-,Suriname,Suriname,Suriname,Suriname,SUR,VERDADERO,,,,
-,,,,Svalbard and Jan Mayen Islands,SJM,VERDADERO,,,,
-,Sweden,Sweden,Sweden,Sweden,SWE,VERDADERO,,,,
-,Switzerland,Switzerland,Switzerland,Switzerland,CHE,VERDADERO,,,,
-,Syrian Arab Republic,Syrian Arab Republic,Syria,Syrian Arab Republic,SYR,FALSO,,,,
-,,,Taiwan,,,FALSO,,,,
-,Tajikistan,Tajikistan,Tajikistan,Tajikistan,TJK,VERDADERO,,,,
-,Tanzania,United Republic of Tanzania,Tanzania,United Republic of Tanzania,TZA,VERDADERO,,,,
-,Thailand,Thailand,Thailand,Thailand,THA,VERDADERO,,,,
-,,The former Yugoslav Republic of Macedonia,,,,VERDADERO,,,,
-,Timor-Leste,Timor-Leste,Timor,Timor-Leste,TLS,FALSO,,,,
-,Togo,Togo,Togo,Togo,TGO,VERDADERO,,,,
-,,,,Tokelau,TKL,VERDADERO,,,,
-,Tonga,Tonga,Tonga,Tonga,TON,VERDADERO,,,,
-,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTO,VERDADERO,,,,
-,,,Tropical Latin America,,,FALSO,,,,
-,Tunisia,Tunisia,Tunisia,Tunisia,TUN,VERDADERO,,,,
-,Turkey,Turkey,Turkey,Turkey,TUR,VERDADERO,,,,
-,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,TKM,VERDADERO,,,,
-,Turks and Caicos Islands,,,Turks and Caicos Islands,TCA,FALSO,,,,
-,Tuvalu,Tuvalu,,Tuvalu,TUV,FALSO,,,,
-,Uganda,Uganda,Uganda,Uganda,UGA,VERDADERO,,,,
-,Ukraine,Ukraine,Ukraine,Ukraine,UKR,VERDADERO,,,,
-,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,ARE,VERDADERO,,,,
-,United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GBR,VERDADERO,,,,
-,,,,United States Minor Outlying Islands,UMI,VERDADERO,,,,
-,United States,United States of America,United States,United States of America,USA,VERDADERO,,,,
-,Virgin Islands (U.S.),,United States Virgin Islands,United States Virgin Islands,VIR,FALSO,,,,
-,Upper middle income,,,,URY,FALSO,,,,
-,Uruguay,Uruguay,Uruguay,Uruguay,UZB,VERDADERO,,,,
-,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,VUT,VERDADERO,,,,
-,Vanuatu,Vanuatu,Vanuatu,Vanuatu,VAT,VERDADERO,,,,
-,"Venezuela, RB",Venezuela (Bolivarian Republic of),Venezuela,Venezuela (Bolivarian Republic of),VEN,FALSO,,,,
-,Vietnam,Viet Nam,Vietnam,Viet Nam,VNM,VERDADERO,,,,
-,,,,Wallis and Futuna Islands,WLF,VERDADERO,,,,
-,,,Wales,,,FALSO,,,,
-,World,,World,,,VERDADERO,,,,
-,,,Western Europe,,,FALSO,,,,
-,,,Western Sub-Saharan Africa,Western Sahara,ESH,FALSO,,,,
-,"Yemen, Rep.",Yemen,Yemen,Yemen,YEM,FALSO,,,,
-,Zambia,Zambia,Zambia,Zambia,ZMB,VERDADERO,,,,
-,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZWE,VERDADERO,,,,
+Columna1,World Bank,WHO,Our World in Data,ONU Dicc,ISO-alpha3 code
+0,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
+1,Africa Eastern and Southern,,,,
+2,Africa Western and Central,,,,
+3,,,,Åland Islands,ALA
+4,Albania,Albania,Albania,Albania,ALB
+5,Algeria,Algeria,Algeria,Algeria,DZA
+6,American Samoa,,American Samoa,American Samoa,ASM
+7,,,Andean Latin America,,
+8,Andorra,Andorra,Andorra,Andorra,AND
+9,Angola,Angola,Angola,Angola,AGO
+10,,,,Anguilla,AIA
+11,,,,Antarctica,ATA
+12,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ATG
+13,Arab World,,,,
+14,Argentina,Argentina,Argentina,Argentina,ARG
+15,Armenia,Armenia,Armenia,Armenia,ARM
+16,,,Australasia,,
+17,Aruba,,,Aruba,ABW
+18,Australia,Australia,Australia,Australia,AUS
+19,Austria,Austria,Austria,Austria,AUT
+20,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZE
+21,"Bahamas, The",Bahamas,Bahamas,Bahamas,BHS
+22,Bahrain,Bahrain,Bahrain,Bahrain,BHR
+23,Bangladesh,Bangladesh,Bangladesh,Bangladesh,BGD
+24,Barbados,Barbados,Barbados,Barbados,BRB
+25,Belarus,Belarus,Belarus,Belarus,BLR
+26,Belgium,Belgium,Belgium,Belgium,BEL
+27,Belize,Belize,Belize,Belize,BLZ
+28,Benin,Benin,Benin,Benin,BEN
+29,Bermuda,,Bermuda,Bermuda,BMU
+30,Bhutan,Bhutan,Bhutan,Bhutan,BTN
+31,Bolivia,Bolivia (Plurinational State of),Bolivia,Bolivia (Plurinational State of),BOL
+32,,,,"Bonaire, Sint Eustatius and Saba",BES
+33,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH
+34,Botswana,Botswana,Botswana,Botswana,BWA
+35,,,,Bouvet Island,BVT
+36,Brazil,Brazil,Brazil,Brazil,BRA
+37,,,,British Indian Ocean Territory,IOT
+38,British Virgin Islands,,,British Virgin Islands,VGB
+39,Brunei Darussalam,Brunei Darussalam,Brunei,Brunei Darussalam,BRN
+40,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BGR
+41,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BFA
+42,Burundi,Burundi,Burundi,Burundi,BDI
+43,Cabo Verde,Cabo Verde,,Cabo Verde,CPV
+44,Cambodia,Cambodia,Cambodia,Cambodia,KHM
+45,Cameroon,Cameroon,Cameroon,Cameroon,CMR
+46,Canada,Canada,Canada,Canada,CAN
+47,,,Cape Verde,,
+48,,,Caribbean,,
+49,Caribbean small states,,,,
+50,Cayman Islands,,,Cayman Islands,CYM
+51,Central African Republic,Central African Republic,Central African Republic,Central African Republic,CAF
+52,,,Central Asia,,
+53,,,Central Europe,,
+54,,,"Central Europe, Eastern Europe, and Central Asia",,
+55,,,Central Latin America,,
+56,,,Central Sub-Saharan Africa,,
+57,Central Europe and the Baltics,,,,
+58,Chad,Chad,Chad,Chad,TCD
+59,Channel Islands,,,,
+60,Chile,Chile,Chile,Chile,CHL
+61,China,China,China,China,CHN
+62,,,,Christmas Island,CXR
+63,,,,Cocos (Keeling) Islands,CCK
+64,Colombia,Colombia,Colombia,Colombia,COL
+65,Comoros,Comoros,Comoros,Comoros,COM
+66,Congo,Congo,Congo,Congo,COG
+67,"Congo, Dem. Rep.",Democratic Republic of the Congo,Democratic Republic of Congo,Democratic Republic of the Congo,COD
+68,,Cook Islands,,Cook Islands,COK
+69,Costa Rica,Costa Rica,Costa Rica,Costa Rica,CRI
+70,Cote d'Ivoire,Côte d'Ivoire,Cote d'Ivoire,Côte d’Ivoire,CIV
+71,Croatia,Croatia,Croatia,Croatia,HRV
+72,Cuba,Cuba,Cuba,Cuba,CUB
+73,Curacao,,,Curaçao,CUW
+74,Cyprus,Cyprus,Cyprus,Cyprus,CYP
+75,Czech Republic,Czechia,Czechia,Czechia,CZE
+76,Denmark,Denmark,Denmark,Denmark,DNK
+77,Djibouti,Djibouti,Djibouti,Djibouti,DJI
+78,Dominica,Dominica,Dominica,Dominica,DMA
+79,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOM
+80,Early-demographic dividend,,,,
+81,East Asia & Pacific,,,,
+82,East Asia & Pacific (excluding high income),,,,
+83,East Asia & Pacific (IDA & IBRD countries),,East Asia,,
+84,,,Eastern Europe,,
+85,,,Eastern Sub-Saharan Africa,,
+86,Ecuador,Ecuador,Ecuador,Ecuador,ECU
+87,,,England,,
+88,"Egypt, Arab Rep.",Egypt,Egypt,Egypt,EGY
+89,El Salvador,El Salvador,El Salvador,El Salvador,SLV
+90,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GNQ
+91,Eritrea,Eritrea,Eritrea,Eritrea,ERI
+92,Estonia,Estonia,Estonia,Estonia,EST
+93,Eswatini,Eswatini,Eswatini,Eswatini,SWZ
+94,Ethiopia,Ethiopia,Ethiopia,Ethiopia,ETH
+95,Euro area,,,,
+96,Europe & Central Asia,,,,
+97,Europe & Central Asia (excluding high income),,,,
+98,Europe & Central Asia (IDA & IBRD countries),,,,
+99,European Union,,,,
+100,,,,Falkland Islands (Malvinas),FLK
+101,Faroe Islands,,,Faroe Islands,FRO
+102,Fiji,Fiji,Fiji,Fiji,FJI
+103,Finland,Finland,Finland,Finland,FIN
+104,Fragile and conflict affected situations,,,,
+105,France,France,France,France,FRA
+106,French Polynesia,,,French Polynesia,GUF
+107,,,,French Guiana,PYF
+108,,,,French Southern Territories,ATF
+109,Gabon,Gabon,Gabon,Gabon,GAB
+110,"Gambia, The",Gambia,Gambia,Gambia,GMB
+111,Georgia,Georgia,Georgia,Georgia,GEO
+112,Germany,Germany,Germany,Germany,DEU
+113,Ghana,Ghana,Ghana,Ghana,GHA
+114,Gibraltar,,,Gibraltar,GIB
+115,Greece,Greece,Greece,Greece,GRC
+116,Greenland,,Greenland,Greenland,GRL
+118,Grenada,Grenada,Grenada,Grenada,GRD
+119,,,,Guadeloupe,GLP
+120,Guam,,Guam,Guam,GUM
+121,Guatemala,Guatemala,Guatemala,Guatemala,GTM
+122,,,,Guernsey,GGY
+123,Guinea,Guinea,Guinea,Guinea,GIN
+124,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GNB
+125,Guyana,Guyana,Guyana,Guyana,GUY
+126,Haiti,Haiti,Haiti,Haiti,HTI
+128,Heavily indebted poor countries (HIPC),,,,
+129,High income,,,,
+130,,,,Heard Island and McDonald Islands,HMD
+131,,,High SDI,,
+132,,,High-income,,
+133,,,High-income Asia Pacific,,
+134,,,High-middle SDI,,
+135,Honduras,Honduras,Honduras,Honduras,HND
+136,"Hong Kong SAR, China",,,Hong Kong Special Administrative Region,HKG
+137,Hungary,Hungary,Hungary,Hungary,HUN
+138,IBRD only,,,,
+139,Iceland,Iceland,Iceland,Iceland,ISL
+140,IDA & IBRD total,,,,
+141,IDA blend,,,,
+142,IDA only,,,,
+143,IDA total,,,,
+144,India,India,India,India,IND
+145,Indonesia,Indonesia,Indonesia,Indonesia,IDN
+146,"Iran, Islamic Rep.",Iran (Islamic Republic of),Iran,Iran (Islamic Republic of),IRN
+147,Iraq,Iraq,Iraq,Iraq,IRQ
+148,Ireland,Ireland,Ireland,Ireland,IRL
+149,Isle of Man,,,Isle of Man,IMN
+150,Israel,Israel,Israel,Israel,ISR
+151,Italy,Italy,Italy,Italy,ITA
+152,Jamaica,Jamaica,Jamaica,Jamaica,JAM
+153,Japan,Japan,Japan,Japan,JPN
+154,,,,Jersey,JEY
+155,Jordan,Jordan,Jordan,Jordan,JOR
+156,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,KAZ
+157,Kenya,Kenya,Kenya,Kenya,KEN
+158,Kiribati,Kiribati,Kiribati,Kiribati,KIR
+159,"Korea, Dem. People's Rep.",,North Korea,Democratic People's Republic of Korea,PRK
+160,"Korea, Rep.",Republic of Korea,South Korea,Republic of Korea,KOR
+161,Kosovo,,,,
+162,Kuwait,Kuwait,Kuwait,Kuwait,KWT
+163,Kyrgyz Republic,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KGZ
+164,Lao PDR,Lao People's Democratic Republic,Laos,Lao People's Democratic Republic,LAO
+165,Late-demographic dividend,,,,
+166,Latin America & Caribbean,,Latin America and Caribbean,,
+167,Latin America & Caribbean (excluding high income),,,,
+168,Latin America & the Caribbean (IDA & IBRD countries),,,,
+169,Latvia,Latvia,Latvia,Latvia,LVA
+170,Least developed countries: UN classification,,,,
+171,Lebanon,Lebanon,Lebanon,Lebanon,LBN
+172,Lesotho,Lesotho,Lesotho,Lesotho,LSO
+173,Liberia,Liberia,Liberia,Liberia,LBR
+174,Libya,Libya,Libya,Libya,LBY
+175,Liechtenstein,,,Liechtenstein,LIE
+176,Lithuania,Lithuania,Lithuania,Lithuania,LTU
+177,Low & middle income,,Low-middle SDI,,
+178,Low income,,Low SDI,,
+179,Lower middle income,,,,
+180,Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX
+181,"Macao SAR, China",,,Macao Special Administrative Region,MAC
+182,Madagascar,Madagascar,Madagascar,Madagascar,MDG
+183,Malawi,Malawi,Malawi,Malawi,MWI
+184,Malaysia,Malaysia,Malaysia,Malaysia,MYS
+185,Maldives,Maldives,Maldives,Maldives,MDV
+186,Mali,Mali,Mali,Mali,MLI
+187,Malta,Malta,Malta,Malta,MLT
+188,Marshall Islands,,Marshall Islands,Marshall Islands,MHL
+189,,,,Martinique,MTQ
+190,Mauritania,Mauritania,Mauritania,Mauritania,MRT
+191,Mauritius,Mauritius,Mauritius,Mauritius,MUS
+192,,,,Mayotte,MYT
+193,Mexico,Mexico,Mexico,Mexico,MEX
+194,"Micronesia, Fed. Sts.",Micronesia (Federated States of),Micronesia (country),Micronesia (Federated States of),FSM
+195,Middle East & North Africa,,,,
+196,Middle East & North Africa (excluding high income),,,,
+197,Middle East & North Africa (IDA & IBRD countries),,,,
+198,Middle income,,Middle SDI,,
+199,Moldova,Republic of Moldova,Moldova,Republic of Moldova,MDA
+200,Monaco,,,Monaco,MCO
+201,Mongolia,Mongolia,Mongolia,Mongolia,MNG
+202,Montenegro,Montenegro,Montenegro,Montenegro,MNE
+203,,,,Montserrat,MSR
+204,Morocco,Morocco,Morocco,Morocco,MAR
+205,Mozambique,Mozambique,Mozambique,Mozambique,MOZ
+206,Myanmar,Myanmar,Myanmar,Myanmar,MMR
+207,Namibia,Namibia,Namibia,Namibia,NAM
+208,Nauru,Nauru,,Nauru,NRU
+209,Nepal,Nepal,Nepal,Nepal,NPL
+210,Netherlands,Netherlands,Netherlands,Netherlands,NLD
+211,New Caledonia,,,New Caledonia,NCL
+212,New Zealand,New Zealand,New Zealand,New Zealand,NZL
+213,Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC
+214,Niger,Niger,Niger,Niger,NER
+215,Nigeria,Nigeria,Nigeria,Nigeria,NGA
+216,,Niue,,Niue,NIU
+217,,,,Norfolk Island,NFK
+218,,,North Africa and Middle East,,
+219,,,North Macedonia,North Macedonia,MKD
+220,North America,,North America,,
+221,,,,Northern Mariana Islands,MNP
+222,North Macedonia,,,,
+223,Northern Mariana Islands,Norway,,,
+224,,,Northern Ireland,,
+225,,,Northern Mariana Islands,,
+226,Norway,,Norway,Norway,NOR
+227,,,Oceania,,
+228,Not classified,,,,
+229,OECD members,,,,
+230,Oman,Oman,Oman,Oman,OMN
+231,Other small states,,,,
+232,Pacific island small states,,,,
+233,Pakistan,Pakistan,Pakistan,Pakistan,PAK
+234,Palau,,,Palau,PLW
+235,West Bank and Gaza,,Palestine,State of Palestine,PSE
+236,Panama,Panama,Panama,Panama,PAN
+237,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PNG
+238,Paraguay,Paraguay,Paraguay,Paraguay,PRY
+239,Peru,Peru,Peru,Peru,PER
+240,Philippines,Philippines,Philippines,Philippines,PHL
+241,,,,Pitcairn,PCN
+242,Poland,Poland,Poland,Poland,POL
+243,Portugal,Portugal,Portugal,Portugal,PRT
+244,Post-demographic dividend,,,,
+245,Pre-demographic dividend,,,,
+246,Puerto Rico,,Puerto Rico,Puerto Rico,PRI
+247,Qatar,Qatar,Qatar,Qatar,QAT
+248,,,,Réunion,REU
+249,Romania,Romania,Romania,Romania,ROU
+250,Russian Federation,Russian Federation,Russia,Russian Federation,RUS
+251,Rwanda,Rwanda,Rwanda,Rwanda,RWA
+252,Samoa,Samoa,Samoa,Samoa,WSM
+253,,,,Saint Barthélemy,BLM
+254,,,,Saint Helena,SHN
+255,St. Kitts and Nevis,Saint Kitts and Nevis,,Saint Kitts and Nevis,KNA
+256,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,STP
+257,,Saint Lucia,Saint Lucia,Saint Lucia,LCA
+258,San Marino,,,San Marino,SMR
+259,St. Martin (French part),,,Saint Martin (French Part),MAF
+260,,,,Saint Pierre and Miquelon,SPM
+261,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT
+262,,,,Sark,N/A
+263,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
+264,,,Scotland,,
+265,Senegal,Senegal,Senegal,Senegal,SEN
+,Serbia,Serbia,Serbia,Serbia,SRB
+,Seychelles,Seychelles,Seychelles,Seychelles,SYC
+,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SLE
+,Singapore,Singapore,Singapore,Singapore,SGP
+,Sint Maarten (Dutch part),,,Sint Maarten (Dutch part),SXM
+,Slovak Republic,Slovakia,Slovakia,Slovakia,SVK
+,Slovenia,Slovenia,Slovenia,Slovenia,SVN
+,Small states,,,,
+,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,SLB
+,Somalia,Somalia,Somalia,Somalia,SOM
+,South Africa,South Africa,South Africa,South Africa,ZAF
+,South Asia,,South Asia,,
+,South Asia (IDA & IBRD),,,,
+,,,,South Georgia and the South Sandwich Islands,SGS
+,South Sudan,,South Sudan,,
+,,,Southeast Asia,,
+,,,"Southeast Asia, East Asia, and Oceania",,
+,,,Southern Latin America,,
+,,,Southern Sub-Saharan Africa,South Sudan,SSD
+,Spain,Spain,Spain,Spain,ESP
+,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,LKA
+,Sub-Saharan Africa,,Sub-Saharan Africa,,
+,Sub-Saharan Africa (excluding high income),,,,
+,Sub-Saharan Africa (IDA & IBRD countries),,,,
+,Sudan,Sudan,Sudan,Sudan,SDN
+,Suriname,Suriname,Suriname,Suriname,SUR
+,,,,Svalbard and Jan Mayen Islands,SJM
+,Sweden,Sweden,Sweden,Sweden,SWE
+,Switzerland,Switzerland,Switzerland,Switzerland,CHE
+,Syrian Arab Republic,Syrian Arab Republic,Syria,Syrian Arab Republic,SYR
+,,,Taiwan,,
+,Tajikistan,Tajikistan,Tajikistan,Tajikistan,TJK
+,Tanzania,United Republic of Tanzania,Tanzania,United Republic of Tanzania,TZA
+,Thailand,Thailand,Thailand,Thailand,THA
+,,The former Yugoslav Republic of Macedonia,,,
+,Timor-Leste,Timor-Leste,Timor,Timor-Leste,TLS
+,Togo,Togo,Togo,Togo,TGO
+,,,,Tokelau,TKL
+,Tonga,Tonga,Tonga,Tonga,TON
+,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTO
+,,,Tropical Latin America,,
+,Tunisia,Tunisia,Tunisia,Tunisia,TUN
+,Turkey,Turkey,Turkey,Turkey,TUR
+,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,TKM
+,Turks and Caicos Islands,,,Turks and Caicos Islands,TCA
+,Tuvalu,Tuvalu,,Tuvalu,TUV
+,Uganda,Uganda,Uganda,Uganda,UGA
+,Ukraine,Ukraine,Ukraine,Ukraine,UKR
+,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,ARE
+,United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GBR
+,,,,United States Minor Outlying Islands,UMI
+,United States,United States of America,United States,United States of America,USA
+,Virgin Islands (U.S.),,United States Virgin Islands,United States Virgin Islands,VIR
+,Upper middle income,,,,URY
+,Uruguay,Uruguay,Uruguay,Uruguay,UZB
+,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,VUT
+,Vanuatu,Vanuatu,Vanuatu,Vanuatu,VAT
+,"Venezuela, RB",Venezuela (Bolivarian Republic of),Venezuela,Venezuela (Bolivarian Republic of),VEN
+,Vietnam,Viet Nam,Vietnam,Viet Nam,VNM
+,,,,Wallis and Futuna Islands,WLF
+,,,Wales,,
+,World,,World,,
+,,,Western Europe,,
+,,,Western Sub-Saharan Africa,Western Sahara,ESH
+,"Yemen, Rep.",Yemen,Yemen,Yemen,YEM
+,Zambia,Zambia,Zambia,Zambia,ZMB
+,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZWE
