@@ -1,4 +1,4 @@
-country,year,insufficient_activity,country_code
+country,year,insufficient_activity,country_year
 Afghanistan,2001,86.39,Afghanistan-2001
 Afghanistan,2002,86.52,Afghanistan-2002
 Afghanistan,2003,86.64,Afghanistan-2003
@@ -1551,22 +1551,22 @@ Romania,2013,79.71,Romania-2013
 Romania,2014,79.65,Romania-2014
 Romania,2015,79.6,Romania-2015
 Romania,2016,79.54,Romania-2016
-Russian Federation,2001,83.47,Russian Federation-2001
-Russian Federation,2002,83.54,Russian Federation-2002
-Russian Federation,2003,83.61,Russian Federation-2003
-Russian Federation,2004,83.68,Russian Federation-2004
-Russian Federation,2005,83.75,Russian Federation-2005
-Russian Federation,2006,83.82,Russian Federation-2006
-Russian Federation,2007,83.89,Russian Federation-2007
-Russian Federation,2008,83.96,Russian Federation-2008
-Russian Federation,2009,84.03,Russian Federation-2009
-Russian Federation,2010,84.1,Russian Federation-2010
-Russian Federation,2011,84.18,Russian Federation-2011
-Russian Federation,2012,84.25,Russian Federation-2012
-Russian Federation,2013,84.32,Russian Federation-2013
-Russian Federation,2014,84.39,Russian Federation-2014
-Russian Federation,2015,84.46,Russian Federation-2015
-Russian Federation,2016,84.53,Russian Federation-2016
+Russia,2001,83.47,Russia-2001
+Russia,2002,83.54,Russia-2002
+Russia,2003,83.61,Russia-2003
+Russia,2004,83.68,Russia-2004
+Russia,2005,83.75,Russia-2005
+Russia,2006,83.82,Russia-2006
+Russia,2007,83.89,Russia-2007
+Russia,2008,83.96,Russia-2008
+Russia,2009,84.03,Russia-2009
+Russia,2010,84.1,Russia-2010
+Russia,2011,84.18,Russia-2011
+Russia,2012,84.25,Russia-2012
+Russia,2013,84.32,Russia-2013
+Russia,2014,84.39,Russia-2014
+Russia,2015,84.46,Russia-2015
+Russia,2016,84.53,Russia-2016
 Rwanda,2010,,Rwanda-2010
 Saint Kitts and Nevis,2001,83.29,Saint Kitts and Nevis-2001
 Saint Kitts and Nevis,2002,83.22,Saint Kitts and Nevis-2002

@@ -1,4 +1,4 @@
-country,year,homicide_rate,country_code
+country,year,homicide_rate,country_year
 Afghanistan,2000,9.78,Afghanistan-2000
 Afghanistan,2001,9.64,Afghanistan-2001
 Afghanistan,2002,10.18,Afghanistan-2002
@@ -2679,26 +2679,26 @@ Romania,2016,1.57,Romania-2016
 Romania,2017,1.42,Romania-2017
 Romania,2018,1.4,Romania-2018
 Romania,2019,1.32,Romania-2019
-Russian Federation,2000,28.07,Russian Federation-2000
-Russian Federation,2001,29.44,Russian Federation-2001
-Russian Federation,2002,30.48,Russian Federation-2002
-Russian Federation,2003,28.88,Russian Federation-2003
-Russian Federation,2004,27.25,Russian Federation-2004
-Russian Federation,2005,24.81,Russian Federation-2005
-Russian Federation,2006,20.12,Russian Federation-2006
-Russian Federation,2007,17.72,Russian Federation-2007
-Russian Federation,2008,16.57,Russian Federation-2008
-Russian Federation,2009,14.91,Russian Federation-2009
-Russian Federation,2010,13.25,Russian Federation-2010
-Russian Federation,2011,12.28,Russian Federation-2011
-Russian Federation,2012,11.3,Russian Federation-2012
-Russian Federation,2013,11.12,Russian Federation-2013
-Russian Federation,2014,11.42,Russian Federation-2014
-Russian Federation,2015,11.48,Russian Federation-2015
-Russian Federation,2016,10.92,Russian Federation-2016
-Russian Federation,2017,9.15,Russian Federation-2017
-Russian Federation,2018,8.44,Russian Federation-2018
-Russian Federation,2019,7.85,Russian Federation-2019
+Russia,2000,28.07,Russia-2000
+Russia,2001,29.44,Russia-2001
+Russia,2002,30.48,Russia-2002
+Russia,2003,28.88,Russia-2003
+Russia,2004,27.25,Russia-2004
+Russia,2005,24.81,Russia-2005
+Russia,2006,20.12,Russia-2006
+Russia,2007,17.72,Russia-2007
+Russia,2008,16.57,Russia-2008
+Russia,2009,14.91,Russia-2009
+Russia,2010,13.25,Russia-2010
+Russia,2011,12.28,Russia-2011
+Russia,2012,11.3,Russia-2012
+Russia,2013,11.12,Russia-2013
+Russia,2014,11.42,Russia-2014
+Russia,2015,11.48,Russia-2015
+Russia,2016,10.92,Russia-2016
+Russia,2017,9.15,Russia-2017
+Russia,2018,8.44,Russia-2018
+Russia,2019,7.85,Russia-2019
 Rwanda,2000,6.87,Rwanda-2000
 Rwanda,2001,6.65,Rwanda-2001
 Rwanda,2002,6.41,Rwanda-2002
