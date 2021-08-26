@@ -1,4 +1,4 @@
-country,year,alcohol_consumption,country_code
+country,year,alcohol_consumption,country_year
 Afghanistan,1990,0.0,Afghanistan-1990
 Afghanistan,1991,0.0,Afghanistan-1991
 Afghanistan,1992,0.0,Afghanistan-1992
@@ -734,42 +734,42 @@ Brazil,2016,2.17,Brazil-2016
 Brazil,2017,2.12,Brazil-2017
 Brazil,2018,2.07,Brazil-2018
 Brazil,2019,2.0,Brazil-2019
-Brunei Darussalam,1990,0.38,Brunei Darussalam-1990
-Brunei Darussalam,1991,0.38,Brunei Darussalam-1991
-Brunei Darussalam,1993,0.34,Brunei Darussalam-1993
-Brunei Darussalam,1994,0.02,Brunei Darussalam-1994
-Brunei Darussalam,1995,0.02,Brunei Darussalam-1995
-Brunei Darussalam,1996,0.4,Brunei Darussalam-1996
-Brunei Darussalam,1997,0.18,Brunei Darussalam-1997
-Brunei Darussalam,1997,0.22,Brunei Darussalam-1997
-Brunei Darussalam,1997,0.4,Brunei Darussalam-1997
-Brunei Darussalam,1998,0.01,Brunei Darussalam-1998
-Brunei Darussalam,1998,0.02,Brunei Darussalam-1998
-Brunei Darussalam,1998,0.12,Brunei Darussalam-1998
-Brunei Darussalam,1998,0.15,Brunei Darussalam-1998
-Brunei Darussalam,1998,0.4,Brunei Darussalam-1998
-Brunei Darussalam,1999,0.01,Brunei Darussalam-1999
-Brunei Darussalam,2000,0.0,Brunei Darussalam-2000
-Brunei Darussalam,2001,0.0,Brunei Darussalam-2001
-Brunei Darussalam,2002,0.0,Brunei Darussalam-2002
-Brunei Darussalam,2003,0.0,Brunei Darussalam-2003
-Brunei Darussalam,2004,0.0,Brunei Darussalam-2004
-Brunei Darussalam,2004,0.092,Brunei Darussalam-2004
-Brunei Darussalam,2006,0.001,Brunei Darussalam-2006
-Brunei Darussalam,2007,0.0009,Brunei Darussalam-2007
-Brunei Darussalam,2007,0.83,Brunei Darussalam-2007
-Brunei Darussalam,2008,0.65,Brunei Darussalam-2008
-Brunei Darussalam,2009,0.19,Brunei Darussalam-2009
-Brunei Darussalam,2010,0.19,Brunei Darussalam-2010
-Brunei Darussalam,2011,0.84,Brunei Darussalam-2011
-Brunei Darussalam,2012,0.87,Brunei Darussalam-2012
-Brunei Darussalam,2013,0.02,Brunei Darussalam-2013
-Brunei Darussalam,2014,0.01,Brunei Darussalam-2014
-Brunei Darussalam,2015,0.66,Brunei Darussalam-2015
-Brunei Darussalam,2016,0.66,Brunei Darussalam-2016
-Brunei Darussalam,2017,0.66,Brunei Darussalam-2017
-Brunei Darussalam,2018,0.04,Brunei Darussalam-2018
-Brunei Darussalam,2019,0.04,Brunei Darussalam-2019
+Brunei,1990,0.38,Brunei-1990
+Brunei,1991,0.38,Brunei-1991
+Brunei,1993,0.34,Brunei-1993
+Brunei,1994,0.02,Brunei-1994
+Brunei,1995,0.02,Brunei-1995
+Brunei,1996,0.4,Brunei-1996
+Brunei,1997,0.18,Brunei-1997
+Brunei,1997,0.22,Brunei-1997
+Brunei,1997,0.4,Brunei-1997
+Brunei,1998,0.01,Brunei-1998
+Brunei,1998,0.02,Brunei-1998
+Brunei,1998,0.12,Brunei-1998
+Brunei,1998,0.15,Brunei-1998
+Brunei,1998,0.4,Brunei-1998
+Brunei,1999,0.01,Brunei-1999
+Brunei,2000,0.0,Brunei-2000
+Brunei,2001,0.0,Brunei-2001
+Brunei,2002,0.0,Brunei-2002
+Brunei,2003,0.0,Brunei-2003
+Brunei,2004,0.0,Brunei-2004
+Brunei,2004,0.092,Brunei-2004
+Brunei,2006,0.001,Brunei-2006
+Brunei,2007,0.0009,Brunei-2007
+Brunei,2007,0.83,Brunei-2007
+Brunei,2008,0.65,Brunei-2008
+Brunei,2009,0.19,Brunei-2009
+Brunei,2010,0.19,Brunei-2010
+Brunei,2011,0.84,Brunei-2011
+Brunei,2012,0.87,Brunei-2012
+Brunei,2013,0.02,Brunei-2013
+Brunei,2014,0.01,Brunei-2014
+Brunei,2015,0.66,Brunei-2015
+Brunei,2016,0.66,Brunei-2016
+Brunei,2017,0.66,Brunei-2017
+Brunei,2018,0.04,Brunei-2018
+Brunei,2019,0.04,Brunei-2019
 Bulgaria,1990,3.24,Bulgaria-1990
 Bulgaria,1991,3.15,Bulgaria-1991
 Bulgaria,1992,3.13,Bulgaria-1992
@@ -867,36 +867,36 @@ Burundi,2016,3.93,Burundi-2016
 Burundi,2017,4.18,Burundi-2017
 Burundi,2018,4.07,Burundi-2018
 Burundi,2019,4.07,Burundi-2019
-Cabo Verde,1990,2.68,Cabo Verde-1990
-Cabo Verde,1991,3.2,Cabo Verde-1991
-Cabo Verde,1992,3.8,Cabo Verde-1992
-Cabo Verde,1993,4.66,Cabo Verde-1993
-Cabo Verde,1994,4.44,Cabo Verde-1994
-Cabo Verde,1995,3.82,Cabo Verde-1995
-Cabo Verde,1996,4.16,Cabo Verde-1996
-Cabo Verde,1997,3.47,Cabo Verde-1997
-Cabo Verde,1998,3.69,Cabo Verde-1998
-Cabo Verde,1999,4.0,Cabo Verde-1999
-Cabo Verde,2000,3.49,Cabo Verde-2000
-Cabo Verde,2001,3.86,Cabo Verde-2001
-Cabo Verde,2002,3.87,Cabo Verde-2002
-Cabo Verde,2003,4.21,Cabo Verde-2003
-Cabo Verde,2004,4.25,Cabo Verde-2004
-Cabo Verde,2005,4.32,Cabo Verde-2005
-Cabo Verde,2006,4.36,Cabo Verde-2006
-Cabo Verde,2007,5.4,Cabo Verde-2007
-Cabo Verde,2008,4.25,Cabo Verde-2008
-Cabo Verde,2009,4.2,Cabo Verde-2009
-Cabo Verde,2010,4.93,Cabo Verde-2010
-Cabo Verde,2011,5.09,Cabo Verde-2011
-Cabo Verde,2012,4.93,Cabo Verde-2012
-Cabo Verde,2013,3.73,Cabo Verde-2013
-Cabo Verde,2014,4.31,Cabo Verde-2014
-Cabo Verde,2015,4.54,Cabo Verde-2015
-Cabo Verde,2016,4.89,Cabo Verde-2016
-Cabo Verde,2017,5.06,Cabo Verde-2017
-Cabo Verde,2018,4.9,Cabo Verde-2018
-Cabo Verde,2019,2.28,Cabo Verde-2019
+Cape Verde,1990,2.68,Cape Verde-1990
+Cape Verde,1991,3.2,Cape Verde-1991
+Cape Verde,1992,3.8,Cape Verde-1992
+Cape Verde,1993,4.66,Cape Verde-1993
+Cape Verde,1994,4.44,Cape Verde-1994
+Cape Verde,1995,3.82,Cape Verde-1995
+Cape Verde,1996,4.16,Cape Verde-1996
+Cape Verde,1997,3.47,Cape Verde-1997
+Cape Verde,1998,3.69,Cape Verde-1998
+Cape Verde,1999,4.0,Cape Verde-1999
+Cape Verde,2000,3.49,Cape Verde-2000
+Cape Verde,2001,3.86,Cape Verde-2001
+Cape Verde,2002,3.87,Cape Verde-2002
+Cape Verde,2003,4.21,Cape Verde-2003
+Cape Verde,2004,4.25,Cape Verde-2004
+Cape Verde,2005,4.32,Cape Verde-2005
+Cape Verde,2006,4.36,Cape Verde-2006
+Cape Verde,2007,5.4,Cape Verde-2007
+Cape Verde,2008,4.25,Cape Verde-2008
+Cape Verde,2009,4.2,Cape Verde-2009
+Cape Verde,2010,4.93,Cape Verde-2010
+Cape Verde,2011,5.09,Cape Verde-2011
+Cape Verde,2012,4.93,Cape Verde-2012
+Cape Verde,2013,3.73,Cape Verde-2013
+Cape Verde,2014,4.31,Cape Verde-2014
+Cape Verde,2015,4.54,Cape Verde-2015
+Cape Verde,2016,4.89,Cape Verde-2016
+Cape Verde,2017,5.06,Cape Verde-2017
+Cape Verde,2018,4.9,Cape Verde-2018
+Cape Verde,2019,2.28,Cape Verde-2019
 Cambodia,1990,0.38,Cambodia-1990
 Cambodia,1991,0.21,Cambodia-1991
 Cambodia,1992,0.18,Cambodia-1992
@@ -1968,39 +1968,39 @@ Gabon,2017,0.05,Gabon-2017
 Gabon,2017,7.04,Gabon-2017
 Gabon,2018,5.31,Gabon-2018
 Gabon,2019,0.62,Gabon-2019
-Gambia,1990,0.05,Gambia-1990
-Gambia,1991,0.01,Gambia-1991
-Gambia,1991,1.45,Gambia-1991
-Gambia,1992,1.58,Gambia-1992
-Gambia,1993,0.06,Gambia-1993
-Gambia,1994,0.06,Gambia-1994
-Gambia,1995,0.01,Gambia-1995
-Gambia,1995,1.38,Gambia-1995
-Gambia,1996,1.28,Gambia-1996
-Gambia,1997,0.06,Gambia-1997
-Gambia,1998,0.04,Gambia-1998
-Gambia,1999,0.0,Gambia-1999
-Gambia,1999,2.17,Gambia-1999
-Gambia,2000,2.93,Gambia-2000
-Gambia,2001,0.19,Gambia-2001
-Gambia,2002,0.2,Gambia-2002
-Gambia,2003,0.23,Gambia-2003
-Gambia,2004,0.25,Gambia-2004
-Gambia,2005,0.23,Gambia-2005
-Gambia,2006,0.24,Gambia-2006
-Gambia,2007,0.24,Gambia-2007
-Gambia,2008,0.18,Gambia-2008
-Gambia,2009,0.17,Gambia-2009
-Gambia,2010,0.15,Gambia-2010
-Gambia,2011,0.16,Gambia-2011
-Gambia,2012,0.2,Gambia-2012
-Gambia,2013,0.21,Gambia-2013
-Gambia,2014,0.23,Gambia-2014
-Gambia,2015,0.23,Gambia-2015
-Gambia,2016,0.13,Gambia-2016
-Gambia,2017,0.14,Gambia-2017
-Gambia,2018,0.21,Gambia-2018
-Gambia,2019,0.21,Gambia-2019
+The Gambia,1990,0.05,The Gambia-1990
+The Gambia,1991,0.01,The Gambia-1991
+The Gambia,1991,1.45,The Gambia-1991
+The Gambia,1992,1.58,The Gambia-1992
+The Gambia,1993,0.06,The Gambia-1993
+The Gambia,1994,0.06,The Gambia-1994
+The Gambia,1995,0.01,The Gambia-1995
+The Gambia,1995,1.38,The Gambia-1995
+The Gambia,1996,1.28,The Gambia-1996
+The Gambia,1997,0.06,The Gambia-1997
+The Gambia,1998,0.04,The Gambia-1998
+The Gambia,1999,0.0,The Gambia-1999
+The Gambia,1999,2.17,The Gambia-1999
+The Gambia,2000,2.93,The Gambia-2000
+The Gambia,2001,0.19,The Gambia-2001
+The Gambia,2002,0.2,The Gambia-2002
+The Gambia,2003,0.23,The Gambia-2003
+The Gambia,2004,0.25,The Gambia-2004
+The Gambia,2005,0.23,The Gambia-2005
+The Gambia,2006,0.24,The Gambia-2006
+The Gambia,2007,0.24,The Gambia-2007
+The Gambia,2008,0.18,The Gambia-2008
+The Gambia,2009,0.17,The Gambia-2009
+The Gambia,2010,0.15,The Gambia-2010
+The Gambia,2011,0.16,The Gambia-2011
+The Gambia,2012,0.2,The Gambia-2012
+The Gambia,2013,0.21,The Gambia-2013
+The Gambia,2014,0.23,The Gambia-2014
+The Gambia,2015,0.23,The Gambia-2015
+The Gambia,2016,0.13,The Gambia-2016
+The Gambia,2017,0.14,The Gambia-2017
+The Gambia,2018,0.21,The Gambia-2018
+The Gambia,2019,0.21,The Gambia-2019
 Georgia,1990,4.84,Georgia-1990
 Georgia,1991,3.17,Georgia-1991
 Georgia,1993,0.0,Georgia-1993
@@ -4317,37 +4317,37 @@ Romania,2016,1.77,Romania-2016
 Romania,2017,1.77,Romania-2017
 Romania,2018,10.96,Romania-2018
 Romania,2019,10.96,Romania-2019
-Russian Federation,1990,0.86,Russian Federation-1990
-Russian Federation,1991,0.78,Russian Federation-1991
-Russian Federation,1992,0.5,Russian Federation-1992
-Russian Federation,1993,0.52,Russian Federation-1993
-Russian Federation,1994,0.66,Russian Federation-1994
-Russian Federation,1995,0.81,Russian Federation-1995
-Russian Federation,1996,1.51,Russian Federation-1996
-Russian Federation,1997,1.56,Russian Federation-1997
-Russian Federation,1998,1.61,Russian Federation-1998
-Russian Federation,1999,1.74,Russian Federation-1999
-Russian Federation,2000,10.21,Russian Federation-2000
-Russian Federation,2001,10.47,Russian Federation-2001
-Russian Federation,2002,10.87,Russian Federation-2002
-Russian Federation,2003,11.32,Russian Federation-2003
-Russian Federation,2004,11.5,Russian Federation-2004
-Russian Federation,2005,11.59,Russian Federation-2005
-Russian Federation,2006,11.83,Russian Federation-2006
-Russian Federation,2007,12.24,Russian Federation-2007
-Russian Federation,2008,12.09,Russian Federation-2008
-Russian Federation,2009,11.25,Russian Federation-2009
-Russian Federation,2010,10.82,Russian Federation-2010
-Russian Federation,2011,10.75,Russian Federation-2011
-Russian Federation,2012,10.56,Russian Federation-2012
-Russian Federation,2013,4.17,Russian Federation-2013
-Russian Federation,2014,3.83,Russian Federation-2014
-Russian Federation,2015,3.49,Russian Federation-2015
-Russian Federation,2016,0.85,Russian Federation-2016
-Russian Federation,2017,0.12,Russian Federation-2017
-Russian Federation,2017,7.15,Russian Federation-2017
-Russian Federation,2018,3.16,Russian Federation-2018
-Russian Federation,2019,3.04,Russian Federation-2019
+Russia,1990,0.86,Russia-1990
+Russia,1991,0.78,Russia-1991
+Russia,1992,0.5,Russia-1992
+Russia,1993,0.52,Russia-1993
+Russia,1994,0.66,Russia-1994
+Russia,1995,0.81,Russia-1995
+Russia,1996,1.51,Russia-1996
+Russia,1997,1.56,Russia-1997
+Russia,1998,1.61,Russia-1998
+Russia,1999,1.74,Russia-1999
+Russia,2000,10.21,Russia-2000
+Russia,2001,10.47,Russia-2001
+Russia,2002,10.87,Russia-2002
+Russia,2003,11.32,Russia-2003
+Russia,2004,11.5,Russia-2004
+Russia,2005,11.59,Russia-2005
+Russia,2006,11.83,Russia-2006
+Russia,2007,12.24,Russia-2007
+Russia,2008,12.09,Russia-2008
+Russia,2009,11.25,Russia-2009
+Russia,2010,10.82,Russia-2010
+Russia,2011,10.75,Russia-2011
+Russia,2012,10.56,Russia-2012
+Russia,2013,4.17,Russia-2013
+Russia,2014,3.83,Russia-2014
+Russia,2015,3.49,Russia-2015
+Russia,2016,0.85,Russia-2016
+Russia,2017,0.12,Russia-2017
+Russia,2017,7.15,Russia-2017
+Russia,2018,3.16,Russia-2018
+Russia,2019,3.04,Russia-2019
 Rwanda,1990,0.0,Rwanda-1990
 Rwanda,1991,0.0,Rwanda-1991
 Rwanda,1991,12.07,Rwanda-1991
@@ -5039,36 +5039,36 @@ Switzerland,2016,0.12,Switzerland-2016
 Switzerland,2017,0.12,Switzerland-2017
 Switzerland,2018,0.12,Switzerland-2018
 Switzerland,2019,0.12,Switzerland-2019
-Syrian Arab Republic,1990,0.0,Syrian Arab Republic-1990
-Syrian Arab Republic,1991,0.0,Syrian Arab Republic-1991
-Syrian Arab Republic,1992,0.0,Syrian Arab Republic-1992
-Syrian Arab Republic,1993,0.0,Syrian Arab Republic-1993
-Syrian Arab Republic,1994,0.0,Syrian Arab Republic-1994
-Syrian Arab Republic,1995,0.0,Syrian Arab Republic-1995
-Syrian Arab Republic,1996,0.0,Syrian Arab Republic-1996
-Syrian Arab Republic,1997,0.0,Syrian Arab Republic-1997
-Syrian Arab Republic,1998,0.0,Syrian Arab Republic-1998
-Syrian Arab Republic,1999,0.0,Syrian Arab Republic-1999
-Syrian Arab Republic,2000,0.0006,Syrian Arab Republic-2000
-Syrian Arab Republic,2001,0.0006,Syrian Arab Republic-2001
-Syrian Arab Republic,2002,0.0006,Syrian Arab Republic-2002
-Syrian Arab Republic,2003,0.0006,Syrian Arab Republic-2003
-Syrian Arab Republic,2004,0.0006,Syrian Arab Republic-2004
-Syrian Arab Republic,2005,0.0004,Syrian Arab Republic-2005
-Syrian Arab Republic,2005,0.043,Syrian Arab Republic-2005
-Syrian Arab Republic,2006,0.043,Syrian Arab Republic-2006
-Syrian Arab Republic,2007,0.05,Syrian Arab Republic-2007
-Syrian Arab Republic,2008,0.067,Syrian Arab Republic-2008
-Syrian Arab Republic,2009,0.095,Syrian Arab Republic-2009
-Syrian Arab Republic,2010,0.65,Syrian Arab Republic-2010
-Syrian Arab Republic,2012,0.0,Syrian Arab Republic-2012
-Syrian Arab Republic,2013,0.0,Syrian Arab Republic-2013
-Syrian Arab Republic,2014,0.0,Syrian Arab Republic-2014
-Syrian Arab Republic,2015,0.0,Syrian Arab Republic-2015
-Syrian Arab Republic,2016,0.0,Syrian Arab Republic-2016
-Syrian Arab Republic,2017,0.0,Syrian Arab Republic-2017
-Syrian Arab Republic,2018,0.0,Syrian Arab Republic-2018
-Syrian Arab Republic,2019,0.0,Syrian Arab Republic-2019
+Syria,1990,0.0,Syria-1990
+Syria,1991,0.0,Syria-1991
+Syria,1992,0.0,Syria-1992
+Syria,1993,0.0,Syria-1993
+Syria,1994,0.0,Syria-1994
+Syria,1995,0.0,Syria-1995
+Syria,1996,0.0,Syria-1996
+Syria,1997,0.0,Syria-1997
+Syria,1998,0.0,Syria-1998
+Syria,1999,0.0,Syria-1999
+Syria,2000,0.0006,Syria-2000
+Syria,2001,0.0006,Syria-2001
+Syria,2002,0.0006,Syria-2002
+Syria,2003,0.0006,Syria-2003
+Syria,2004,0.0006,Syria-2004
+Syria,2005,0.0004,Syria-2005
+Syria,2005,0.043,Syria-2005
+Syria,2006,0.043,Syria-2006
+Syria,2007,0.05,Syria-2007
+Syria,2008,0.067,Syria-2008
+Syria,2009,0.095,Syria-2009
+Syria,2010,0.65,Syria-2010
+Syria,2012,0.0,Syria-2012
+Syria,2013,0.0,Syria-2013
+Syria,2014,0.0,Syria-2014
+Syria,2015,0.0,Syria-2015
+Syria,2016,0.0,Syria-2016
+Syria,2017,0.0,Syria-2017
+Syria,2018,0.0,Syria-2018
+Syria,2019,0.0,Syria-2019
 Tajikistan,1992,0.23,Tajikistan-1992
 Tajikistan,1993,0.51,Tajikistan-1993
 Tajikistan,1994,0.76,Tajikistan-1994
@@ -5158,36 +5158,36 @@ The former Yugoslav Republic of Macedonia,2016,3.63,The former Yugoslav Republic
 The former Yugoslav Republic of Macedonia,2017,3.77,The former Yugoslav Republic of Macedonia-2017
 The former Yugoslav Republic of Macedonia,2018,3.89,The former Yugoslav Republic of Macedonia-2018
 The former Yugoslav Republic of Macedonia,2019,3.9,The former Yugoslav Republic of Macedonia-2019
-Timor-Leste,1990,0.37,Timor-Leste-1990
-Timor-Leste,1991,0.38,Timor-Leste-1991
-Timor-Leste,1992,0.37,Timor-Leste-1992
-Timor-Leste,1993,0.38,Timor-Leste-1993
-Timor-Leste,1994,0.39,Timor-Leste-1994
-Timor-Leste,1995,0.4,Timor-Leste-1995
-Timor-Leste,1996,0.41,Timor-Leste-1996
-Timor-Leste,1997,0.44,Timor-Leste-1997
-Timor-Leste,1998,0.49,Timor-Leste-1998
-Timor-Leste,1999,0.5,Timor-Leste-1999
-Timor-Leste,2000,0.5,Timor-Leste-2000
-Timor-Leste,2001,0.5,Timor-Leste-2001
-Timor-Leste,2002,0.48,Timor-Leste-2002
-Timor-Leste,2003,0.44,Timor-Leste-2003
-Timor-Leste,2004,0.39,Timor-Leste-2004
-Timor-Leste,2005,0.35,Timor-Leste-2005
-Timor-Leste,2006,0.039,Timor-Leste-2006
-Timor-Leste,2007,0.046,Timor-Leste-2007
-Timor-Leste,2008,0.062,Timor-Leste-2008
-Timor-Leste,2009,0.085,Timor-Leste-2009
-Timor-Leste,2010,0.1,Timor-Leste-2010
-Timor-Leste,2011,0.44,Timor-Leste-2011
-Timor-Leste,2012,0.48,Timor-Leste-2012
-Timor-Leste,2013,0.48,Timor-Leste-2013
-Timor-Leste,2014,0.41,Timor-Leste-2014
-Timor-Leste,2015,0.41,Timor-Leste-2015
-Timor-Leste,2016,0.44,Timor-Leste-2016
-Timor-Leste,2017,0.42,Timor-Leste-2017
-Timor-Leste,2018,0.42,Timor-Leste-2018
-Timor-Leste,2019,0.41,Timor-Leste-2019
+Timor,1990,0.37,Timor-1990
+Timor,1991,0.38,Timor-1991
+Timor,1992,0.37,Timor-1992
+Timor,1993,0.38,Timor-1993
+Timor,1994,0.39,Timor-1994
+Timor,1995,0.4,Timor-1995
+Timor,1996,0.41,Timor-1996
+Timor,1997,0.44,Timor-1997
+Timor,1998,0.49,Timor-1998
+Timor,1999,0.5,Timor-1999
+Timor,2000,0.5,Timor-2000
+Timor,2001,0.5,Timor-2001
+Timor,2002,0.48,Timor-2002
+Timor,2003,0.44,Timor-2003
+Timor,2004,0.39,Timor-2004
+Timor,2005,0.35,Timor-2005
+Timor,2006,0.039,Timor-2006
+Timor,2007,0.046,Timor-2007
+Timor,2008,0.062,Timor-2008
+Timor,2009,0.085,Timor-2009
+Timor,2010,0.1,Timor-2010
+Timor,2011,0.44,Timor-2011
+Timor,2012,0.48,Timor-2012
+Timor,2013,0.48,Timor-2013
+Timor,2014,0.41,Timor-2014
+Timor,2015,0.41,Timor-2015
+Timor,2016,0.44,Timor-2016
+Timor,2017,0.42,Timor-2017
+Timor,2018,0.42,Timor-2018
+Timor,2019,0.41,Timor-2019
 Togo,1990,1.91,Togo-1990
 Togo,1991,1.58,Togo-1991
 Togo,1992,1.34,Togo-1992
