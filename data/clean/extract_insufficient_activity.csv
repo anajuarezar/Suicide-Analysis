@@ -308,22 +308,22 @@ Brazil,2013,83.79,Brazil-2013
 Brazil,2014,83.72,Brazil-2014
 Brazil,2015,83.65,Brazil-2015
 Brazil,2016,83.59,Brazil-2016
-Brunei Darussalam,2001,87.77,Brunei Darussalam-2001
-Brunei Darussalam,2002,87.73,Brunei Darussalam-2002
-Brunei Darussalam,2003,87.69,Brunei Darussalam-2003
-Brunei Darussalam,2004,87.63,Brunei Darussalam-2004
-Brunei Darussalam,2005,87.57,Brunei Darussalam-2005
-Brunei Darussalam,2006,87.51,Brunei Darussalam-2006
-Brunei Darussalam,2007,87.47,Brunei Darussalam-2007
-Brunei Darussalam,2008,87.43,Brunei Darussalam-2008
-Brunei Darussalam,2009,87.39,Brunei Darussalam-2009
-Brunei Darussalam,2010,87.34,Brunei Darussalam-2010
-Brunei Darussalam,2011,87.28,Brunei Darussalam-2011
-Brunei Darussalam,2012,87.23,Brunei Darussalam-2012
-Brunei Darussalam,2013,87.19,Brunei Darussalam-2013
-Brunei Darussalam,2014,87.16,Brunei Darussalam-2014
-Brunei Darussalam,2015,87.13,Brunei Darussalam-2015
-Brunei Darussalam,2016,87.1,Brunei Darussalam-2016
+Brunei,2001,87.77,Brunei-2001
+Brunei,2002,87.73,Brunei-2002
+Brunei,2003,87.69,Brunei-2003
+Brunei,2004,87.63,Brunei-2004
+Brunei,2005,87.57,Brunei-2005
+Brunei,2006,87.51,Brunei-2006
+Brunei,2007,87.47,Brunei-2007
+Brunei,2008,87.43,Brunei-2008
+Brunei,2009,87.39,Brunei-2009
+Brunei,2010,87.34,Brunei-2010
+Brunei,2011,87.28,Brunei-2011
+Brunei,2012,87.23,Brunei-2012
+Brunei,2013,87.19,Brunei-2013
+Brunei,2014,87.16,Brunei-2014
+Brunei,2015,87.13,Brunei-2015
+Brunei,2016,87.1,Brunei-2016
 Bulgaria,2001,75.68,Bulgaria-2001
 Bulgaria,2002,75.53,Bulgaria-2002
 Bulgaria,2003,75.38,Bulgaria-2003
@@ -342,7 +342,7 @@ Bulgaria,2015,73.49,Bulgaria-2015
 Bulgaria,2016,73.33,Bulgaria-2016
 Burkina Faso,2010,,Burkina Faso-2010
 Burundi,2010,,Burundi-2010
-Cabo Verde,2010,,Cabo Verde-2010
+Cape Verde,2010,,Cape Verde-2010
 Cambodia,2001,90.35,Cambodia-2001
 Cambodia,2002,90.43,Cambodia-2002
 Cambodia,2003,90.51,Cambodia-2003
@@ -663,7 +663,7 @@ France,2014,86.88,France-2014
 France,2015,86.94,France-2015
 France,2016,87.0,France-2016
 Gabon,2010,,Gabon-2010
-Gambia,2010,,Gambia-2010
+The Gambia,2010,,The Gambia-2010
 Georgia,2010,,Georgia-2010
 Germany,2001,83.5,Germany-2001
 Germany,2002,83.51,Germany-2002
@@ -1832,22 +1832,22 @@ Switzerland,2013,85.49,Switzerland-2013
 Switzerland,2014,85.56,Switzerland-2014
 Switzerland,2015,85.63,Switzerland-2015
 Switzerland,2016,85.71,Switzerland-2016
-Syrian Arab Republic,2001,86.69,Syrian Arab Republic-2001
-Syrian Arab Republic,2002,86.74,Syrian Arab Republic-2002
-Syrian Arab Republic,2003,86.79,Syrian Arab Republic-2003
-Syrian Arab Republic,2004,86.83,Syrian Arab Republic-2004
-Syrian Arab Republic,2005,86.89,Syrian Arab Republic-2005
-Syrian Arab Republic,2006,86.95,Syrian Arab Republic-2006
-Syrian Arab Republic,2007,87.01,Syrian Arab Republic-2007
-Syrian Arab Republic,2008,87.07,Syrian Arab Republic-2008
-Syrian Arab Republic,2009,87.13,Syrian Arab Republic-2009
-Syrian Arab Republic,2010,87.18,Syrian Arab Republic-2010
-Syrian Arab Republic,2011,87.23,Syrian Arab Republic-2011
-Syrian Arab Republic,2012,87.29,Syrian Arab Republic-2012
-Syrian Arab Republic,2013,87.34,Syrian Arab Republic-2013
-Syrian Arab Republic,2014,87.39,Syrian Arab Republic-2014
-Syrian Arab Republic,2015,87.46,Syrian Arab Republic-2015
-Syrian Arab Republic,2016,87.52,Syrian Arab Republic-2016
+Syria,2001,86.69,Syria-2001
+Syria,2002,86.74,Syria-2002
+Syria,2003,86.79,Syria-2003
+Syria,2004,86.83,Syria-2004
+Syria,2005,86.89,Syria-2005
+Syria,2006,86.95,Syria-2006
+Syria,2007,87.01,Syria-2007
+Syria,2008,87.07,Syria-2008
+Syria,2009,87.13,Syria-2009
+Syria,2010,87.18,Syria-2010
+Syria,2011,87.23,Syria-2011
+Syria,2012,87.29,Syria-2012
+Syria,2013,87.34,Syria-2013
+Syria,2014,87.39,Syria-2014
+Syria,2015,87.46,Syria-2015
+Syria,2016,87.52,Syria-2016
 Tajikistan,2010,,Tajikistan-2010
 Thailand,2001,81.52,Thailand-2001
 Thailand,2002,81.28,Thailand-2002
@@ -1881,22 +1881,22 @@ The former Yugoslav Republic of Macedonia,2013,78.65,The former Yugoslav Republi
 The former Yugoslav Republic of Macedonia,2014,78.57,The former Yugoslav Republic of Macedonia-2014
 The former Yugoslav Republic of Macedonia,2015,78.49,The former Yugoslav Republic of Macedonia-2015
 The former Yugoslav Republic of Macedonia,2016,78.41,The former Yugoslav Republic of Macedonia-2016
-Timor-Leste,2001,88.99,Timor-Leste-2001
-Timor-Leste,2002,89.02,Timor-Leste-2002
-Timor-Leste,2003,89.05,Timor-Leste-2003
-Timor-Leste,2004,89.08,Timor-Leste-2004
-Timor-Leste,2005,89.1,Timor-Leste-2005
-Timor-Leste,2006,89.12,Timor-Leste-2006
-Timor-Leste,2007,89.14,Timor-Leste-2007
-Timor-Leste,2008,89.17,Timor-Leste-2008
-Timor-Leste,2009,89.18,Timor-Leste-2009
-Timor-Leste,2010,89.2,Timor-Leste-2010
-Timor-Leste,2011,89.22,Timor-Leste-2011
-Timor-Leste,2012,89.25,Timor-Leste-2012
-Timor-Leste,2013,89.28,Timor-Leste-2013
-Timor-Leste,2014,89.31,Timor-Leste-2014
-Timor-Leste,2015,89.34,Timor-Leste-2015
-Timor-Leste,2016,89.37,Timor-Leste-2016
+Timor,2001,88.99,Timor-2001
+Timor,2002,89.02,Timor-2002
+Timor,2003,89.05,Timor-2003
+Timor,2004,89.08,Timor-2004
+Timor,2005,89.1,Timor-2005
+Timor,2006,89.12,Timor-2006
+Timor,2007,89.14,Timor-2007
+Timor,2008,89.17,Timor-2008
+Timor,2009,89.18,Timor-2009
+Timor,2010,89.2,Timor-2010
+Timor,2011,89.22,Timor-2011
+Timor,2012,89.25,Timor-2012
+Timor,2013,89.28,Timor-2013
+Timor,2014,89.31,Timor-2014
+Timor,2015,89.34,Timor-2015
+Timor,2016,89.37,Timor-2016
 Togo,2010,,Togo-2010
 Tonga,2001,85.28,Tonga-2001
 Tonga,2002,85.31,Tonga-2002
