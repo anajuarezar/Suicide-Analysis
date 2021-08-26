@@ -1,4 +1,4 @@
-country,year,country_code,suicide_rate_owid,mental_substance_disorders,life_expectancy,birth_rate,death_rate,gdp,health_pct,population,unemployment
+country,year,country_year,suicide_rate_owid,mental_substance_disorders,life_expectancy,birth_rate,death_rate,gdp,health_pct,population,unemployment
 Afghanistan,1990,Afghanistan-1990,10.31850413,17.5534629607,50.331,48.88,15.241,,,12412311.0,
 Afghanistan,1991,Afghanistan-1991,10.32701045,17.837031643,50.999,48.76300000000001,14.783,,,13299016.0,11.38
 Afghanistan,1992,Afghanistan-1992,10.27141119,18.0925424449,51.64100000000001,48.709,14.362,,,14485543.0,11.46
