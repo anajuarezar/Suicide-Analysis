@@ -62,8 +62,7 @@
  <br>
  <!--First container-->
 <div class="container">
-  <div class="row gx-5"></div>
-
+ 
   <div class="row gx-5">
     <!--Create our columns inside our rows-->
       <div class="col-sm-12 col-xs-12">
@@ -79,6 +78,7 @@
                   <dt>Negative Correlation</dt>
                   <dd>Life expectancy: -0.188927</dd>
              </dl>
+             Of course, these correlations were to be expected, nevertheless they are lower than 0.4, meaning they are not high enough to prove a strong relationship.
            </p>
           </div>
         </div>
@@ -93,8 +93,120 @@
         <br><br>
         <img src="../Images/model/initial_correlation.png" class="img-fluid" alt="initial_correlation">
       </div>
+     </div>
+  <br><br>
+     <!--Create new row-->
+     <div class="row gx-5">
+      <div class="col-sm-12 col-xs-12">
+        <div class="card border-primary mb-3">
+          <h2 class="card-header">Linear Model</h2>
+            <div class="card-body">
+              <p class="card-text"> We found low testing and training scores, as well as accuracy. This is because linear regressions are used for predictions (of two variables but not categorical variables), in which a logistical regression has a better fit.
+                <dl>
+                  <dt>Results</dt>
+                  <dd>Training Score: 0.06487984027546811 </dd>
+                  <dd>Testing Score: 0.04915427513155979 </dd> 
+                  <dd> Accuracy: 0.049</dd>    
+             </dl>
+           </p>
+          </div>
+        </div>
+      </div>
+    <!--Close row-->
   </div>
-</div>
+
+        <!--Create second row--->
+        <div class = "row gx-5">
+          <div class = "col-sm-6 col-xs-6">
+            <br>
+            <img src="../Images/model/linearreg_residualplot.png" class="img-fluid" alt="initial_correlation">
+          </div>
+          <div class = "col-sm-6 col-xs-6">
+            <br>
+            <img src="../Images/model/linealreg_featureimp.png" class="img-fluid" alt="initial_correlation">
+          </div>
+          <!--Close row-->
+         </div>
+
+         <!--Create new row for logistical regression-->
+         <div class="row gx-5">
+          <div class="col-sm-12 col-xs-12">
+            <div class="card border-primary mb-3">
+              <h2 class="card-header">Logistical Regression</h2>
+                <div class="card-body">
+                  <p class="card-text"> A logistical regression was made that gave us an accuracy for the model of 70%.<br> Plots were created showing the relationship of unemployment vs suicide rate, and mental disorders and substance abuse vs suicide rate.  
+                    <dl>
+                   <dt>Results</dt> 
+                   <dd>Accuracy：70.43%</dd> 
+                   <dd>Recall：0.00%</dd>
+                   <dd>Precision：0.00% </dd> 
+                   <dd> F1：0.00%</dd> 
+                </dl>
+                 </p>
+              </div>
+            </div>
+          </div>
+        <!--Close row-->
+      </div>
+    
+            <!--Create second row with scatterplots--->
+            <div class = "row gx-5">
+              <div class = "col-sm-6 col-xs-6">
+                <br>
+                <img src="../Images/model/log_unempoymentvssuicide.png" class="img-fluid" alt="initial_correlation">
+              </div>
+              <div class = "col-sm-6 col-xs-6">
+                <br>
+                <img src="../Images/model/log_mentalsubvssuicide.png" class="img-fluid" alt="initial_correlation">
+              </div>
+              <!--Close row-->
+             </div>
+           <!--Create another row with classification and feature importance--->
+            <div class = "row gx-5">
+              <div class = "col-sm-6 col-xs-6">
+                <br>
+                <img src="../Images/model/log_classificationreport.png" class="img-fluid" alt="initial_correlation">
+              </div>
+              <div class = "col-sm-6 col-xs-6">
+                <br>
+                <img src="../Images/model/log_featureimportance.png" class="img-fluid" alt="initial_correlation">
+              </div>
+              <!--Close row-->
+             </div>
+             <!--Create new row for Random forest-->
+     <div class="row gx-5">
+      <div class="col-sm-12 col-xs-12">
+        <div class="card border-primary mb-3">
+          <h2 class="card-header">Random forest</h2>
+            <div class="card-body">
+              <p class="card-text"> The model also got an accuracy of 73% but with higher precision and recall than the logistical model.
+                <dl>
+                  <dt>Results</dt>
+                  <dd>Training Data Score: 1.0 </dd>
+                  <dd>Testing Data Score: 0.7364787111622555 </dd> 
+                   
+             </dl>
+           </p>
+          </div>
+        </div>
+      </div>
+    <!--Close row-->
+  </div>
+
+        <!--Create second row--->
+        <div class = "row gx-5">
+          <div class = "col-sm-6 col-xs-6">
+            <br>
+            <img src="../Images/model/randomforest_classificationreport.png" class="img-fluid" alt="initial_correlation">
+          </div>
+          <div class = "col-sm-6 col-xs-6">
+            <br>
+            <img src="../Images/model/randomforest_featureimp.png" class="img-fluid" alt="initial_correlation">
+          </div>
+          <!--Close row-->
+         </div>
+       
+
 
   <!--Close container-->
 </div>
