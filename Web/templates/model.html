@@ -87,7 +87,7 @@
       <!--Create second row--->
     <div class = "row gx-5">
       <div class = "col-sm-6 col-xs-6">
-        <img src="../Images/model/scatterplot_correlation.png" class="img-fluid" alt="initial_correlation">
+        <img src="../Images/model/scatterplot_correlation.png" class="img-fluid" alt="scatter correlation">
       </div>
       <div class = "col-sm-6 col-xs-6">
         <br><br>
@@ -119,11 +119,11 @@
         <div class = "row gx-5">
           <div class = "col-sm-6 col-xs-6">
             <br>
-            <img src="../Images/model/linearreg_residualplot.png" class="img-fluid" alt="initial_correlation">
+            <img src="../Images/model/linearreg_residualplot.png" class="img-fluid" alt="lineal regresion res plot">
           </div>
           <div class = "col-sm-6 col-xs-6">
             <br>
-            <img src="../Images/model/linealreg_featureimp.png" class="img-fluid" alt="initial_correlation">
+            <img src="../Images/model/linealreg_featureimp.png" class="img-fluid" alt="lineal reg feature">
           </div>
           <!--Close row-->
          </div>
@@ -153,11 +153,11 @@
             <div class = "row gx-5">
               <div class = "col-sm-6 col-xs-6">
                 <br>
-                <img src="../Images/model/log_unempoymentvssuicide.png" class="img-fluid" alt="initial_correlation">
+                <img src="../Images/model/log_unempoymentvssuicide.png" class="img-fluid" alt="unemployment suicide">
               </div>
               <div class = "col-sm-6 col-xs-6">
                 <br>
-                <img src="../Images/model/log_mentalsubvssuicide.png" class="img-fluid" alt="initial_correlation">
+                <img src="../Images/model/log_mentalsubvssuicide.png" class="img-fluid" alt="mental suicide">
               </div>
               <!--Close row-->
              </div>
@@ -165,11 +165,11 @@
             <div class = "row gx-5">
               <div class = "col-sm-6 col-xs-6">
                 <br>
-                <img src="../Images/model/log_classificationreport.png" class="img-fluid" alt="initial_correlation">
+                <img src="../Images/model/log_classificationreport.png" class="img-fluid" alt="log classification">
               </div>
               <div class = "col-sm-6 col-xs-6">
                 <br>
-                <img src="../Images/model/log_featureimportance.png" class="img-fluid" alt="initial_correlation">
+                <img src="../Images/model/log_featureimportance.png" class="img-fluid" alt="log feature">
               </div>
               <!--Close row-->
              </div>
@@ -197,16 +197,84 @@
         <div class = "row gx-5">
           <div class = "col-sm-6 col-xs-6">
             <br>
-            <img src="../Images/model/randomforest_classificationreport.png" class="img-fluid" alt="initial_correlation">
+            <img src="../Images/model/randomforest_classificationreport.png" class="img-fluid" alt="random forest classification">
           </div>
           <div class = "col-sm-6 col-xs-6">
             <br>
-            <img src="../Images/model/randomforest_featureimp.png" class="img-fluid" alt="initial_correlation">
+            <img src="../Images/model/randomforest_featureimp.png" class="img-fluid" alt="random forest feature">
           </div>
           <!--Close row-->
          </div>
        
+          <!--Create new row for SVR and SVM-->
+          <div class="row gx-5">
+            <div class="col-sm-12 col-xs-12">
+              <div class="card border-primary mb-3">
+                <h2 class="card-header">SVR and SVM</h2>
+                  <div class="card-body">
+                    <p class="card-text"> Other models tested were SVR and SVM. SVR threw negative test scores meaning the prediction is not feasible and the parameters were unfit for the data. Mainly this is explained, because it focuses on continous values to know how tolerant we are of errors, while SVM is focused on classification values (like the ones used).
+                      <dl>
+                        <dt>Results</dt>
+                        <dd>Training Score: -0.3901860777815773</dd>
+                        <dd>Testing Score: -0.6574555206324033</dd> 
+                        </dl>
+                        <br>
+                        In the SVM good testing and training scores were obtained as well as an accuracy of 70.0%.
+                        <br> <br>
+                        <dl>
+                          <dt>Results</dt>
+                          <dd>Recall：0.00%</dd>
+                          <dd>Precision：0.00%</dd>
+                          <dd>F1：0.00%</dd>     
+                      </dl>
+                 </p>
+                </div>
+              </div>
+            </div>
+          <!--Close row-->
+        </div>
+      
+              <!--Create second row--->
+              <div class = "row gx-5">
+                <div class = "col-sm-6 col-xs-6">
+                
+                  <img src="../Images/model/svm_classificationreport.png" class="img-fluid" alt="svm classification">
+                </div>
+                <div class = "col-sm-6 col-xs-6">
+                  <br>
+                  <img src="../Images/model/svm_featureimportance.png" class="img-fluid" alt="svm feature">
+                </div>
+                <!--Close row-->
+               </div>
+                    <br>
+                    <hr>
+                    <br>
+          <!--Conclusion row-->
+          <div class="row gx-5">
+            
+            <div class="col-sm-6 col-xs-6">
+              <br>
+              <br>
+              <div class="card border-primary mb-3">
+                <h2 class="card-header">Conclusions</h2>
+                  <div class="card-body">
+                    <p class="card-text"> In conclusion, SVM, Random Forest, and the Logistical Regression were the best methods for our 
+                      data and our predictions. We believe that this is an important cause that has 
+                      increased during externalities such as the pandemic we are currently going through. Even 
+                      though this is a difficult subject to bring forward (even when it comes to public policy), it is in
+                      our best interest that the awareness raised allows those found in this situation(and with the 
+                      factors analyzed) to receive help.
+                 </p>
+                </div>
+              </div>
+            </div>
+            <div class ="col-sm-6 col-xs-6">
+              <img src="../Images/model/model_comparison.png" class="img-fluid" alt="model comparison">
 
+            </div>
+          <!--Close row-->
+        </div>
+      
 
   <!--Close container-->
 </div>
