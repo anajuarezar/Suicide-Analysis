@@ -31,5 +31,9 @@ p {
 }
 
 dt { 
-    font-size: 30pt;
+    font-size: 14pt;
+}
+
+#depressedppl {
+    border-radius: 30%;
 }
