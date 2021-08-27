@@ -107,10 +107,9 @@
       <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
         <div class="accordion-body">
           <ul> 
-            <li>Our World in Data- Share of population with mental health disorders (relative numbers)(<a href="https://ourworldindata.org/mental-health ">link</a>)</li>
-            <li>Population substance abuse (<a href=" ">link</a>)</li>
-            <li>Alcohol consumption (<a href=" ">link</a>)</li>
-            <li>Government expenditures on mental health (<a href=" ">link</a>)</li>
+            <li>Our World in Data- Share of population with mental health and substance Understanding disorders (relative numbers)(<a href="https://ourworldindata.org/mental-health ">link</a>)</li>
+            <li>WHO - Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (<a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-(recorded-unrecorded)-alcohol-per-capita-(15-)-consumption ">link</a>)</li>
+            <li> World Bank - Current health expenditure per capita (current US$) (<a href="https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD">link</a>)</li>
           </ul>
         </div>
       </div>
@@ -124,12 +123,10 @@
       <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
         <div class="accordion-body">
           <ul>
-            <li>Population (<a href=" ">link</a>)</li>
-            <li>Life expectancy (<a href=" ">link</a>)</li>
-            <li>Birth rate (<a href=" ">link</a>)</li>
-            <li>Death rate (<a href=" ">link</a>)</li>
-            <li>Poverty rate (<a href=" ">link</a>)</li>
-            <li>Violence homicide rate (<a href=" ">link</a>)</li>
+            <li>World Bank - Population (Total) (<a href="https://data.worldbank.org/indicator/SP.POP.TOTL">link</a>)</li>
+            <li>Our World in Data - Life expectancy at birth, total(years) (<a href="https://ourworldindata.org/grapher/life-expectancy-at-birth-total-years ">link</a>)</li>
+            <li>World Bank - Birth rate, crude (per 1,000) (<a href="https://data.worldbank.org/indicator/SP.DYN.CBRT.IN ">link</a>)</li>
+            <li>World Bank - Death rate, crude (per 1,000) (<a href="https://data.worldbank.org/indicator/SP.DYN.CDRT.IN ">link</a>)</li>
           </ul>
         </div>
       </div>
@@ -142,10 +139,10 @@
       </h2>
       <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample" style="">
         <div class="accordion-body">
-          <ol>
-            <li>Unemployment percentage (<a href=" ">link</a>)</li>
-            <li>GDP per capita (<a href=" ">link</a>)</li>
-          </ol>
+          <ul>
+            <li>World Bank - Total Unemployment (percentage of total labor force) (<a href="https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS ">link</a>)</li>
+            <li>World Bank - GDP per capita (Current US$) (<a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD ">link</a>)</li>
+          </ul>
         </div>
       </div>
     </div>
@@ -157,9 +154,9 @@
       </h2>
       <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample" style="">
         <div class="accordion-body">
-          <ol>
+          <ul>
             <li> Google for developers (<a href= "https://developers.google.com/public-data/docs/canonical/countries_csv">link</a>)</li>
-          </ol>
+          </ul>
         </div>
       </div>
     </div>
@@ -181,7 +178,14 @@
     <!--Create our columns inside our rows-->
       <div class="col-sm-12 col-xs-12">
         <h4>We followed a process with our data, which is described below:</h4>
-        <p>It is important to mention that the data used in this project contains the period within the years ____ </p>
+        <p>It is important to mention that the data used in this project contains the period within the years ____ 
+          <br>We decided to analyze suicide rate through a series of demographic, economical, geographical, and social factors. <br>
+          Our intention is to be able to predict if a person is more likely to die from suicide if they have certain factors in their life. We used data from various resources such as world bank, our world in data, kaggle, and WHO. The data was downloaded from the sources mentioned above and then cleaned using python and pandas. Afterward, all the databases were merged together and became uniform. Data was also normalized between all variables. 
+          <br> We then processed the data through machine learning using models such as : linear regression, logistic regression, random forest, and support vector machine. Of course, there were differences in accuracy because not all models are fit for this kind of purpose: prediction. Some are general models to note relationship between data and other factors. If data is unfit for the type of model it causes faults in accuracy.
+          <br>
+          Beyond logical reasoning, we also found research that sustaining economical factors such as unemployment, had a strong influence on the suicide mortality rate. Other factors we noticed with a strong relationship were mental health and substance abuse and of course death rate. 
+          <br> We hope that with this research, awareness can be raised so additional funding is done in welfare-state policies that may reduce the suicide rate mortality.
+        </p>
 <!--Close column-->
       </div>
 <!--Close row-->
@@ -200,14 +204,15 @@
       <div class="col-sm-12 col-xs-12">
  <h4>Data resources used where the following:</h4>
  <ol>
-<li></li>
+<li>World Health Organization. (2014). Preventing suicide: A global imperative. World Health Organization.</li>
 <li>Hannah Ritchie, Max Roser and Esteban Ortiz-Ospina (2015) - "Suicide". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/suicide' [Online Resource: Visited on August 2021]</li>
 <li>Hannah Ritchie and Max Roser (2018) - "Mental Health". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/mental-health' [Online Resource: Visited on August 2021]</li>
-<li></li>
+<li>World Health Organization. (2021). Suicide worldwide in 2019: global health estimates.</li>
+<li>Suicide and Suicidal thoughts. Mayo Clinic. Retrieved from: 'https://www.mayoclinic.org/diseases-conditions/suicide/symptoms-causes/syc-20378048'[Online resource: Visited on August 2021]</li>
 
  </ol>
 
- <h5>Images are from:<h5>
+ <h5>Images are from:</h5>
  <p> People vector created by stories <a href='https://www.freepik.com/vectors/people'> www.freepik.com</a> </p>
 <ol>
     
