@@ -31,11 +31,11 @@ Beyond logical reasoning, we also found research that sustained: economical fact
 
 An initial correlation was made in which we discovered the following:
 + Positive correlation 
-+ + suicide_rate_owid 1.000000 
-+ + mental_substance_disorders 0.146587 
-+ + death_rate 0.187283
+  + suicide_rate_owid 1.000000 
+  + mental_substance_disorders 0.146587 
+  + death_rate 0.187283
 + Negative correlation 
-+ + life_expectancy -0.188927
+  + life_expectancy -0.188927
 
 ![initial_correlation](Web/Images/model/initial_correlation.png)
 ![scatterplot_correlation](Web/Images/model/scatterplot_correlation.png)
@@ -46,9 +46,9 @@ We then executed a linear model, in which we found low testing and training scor
 
 
 + Results 
-+ + Training Score: 0.06487984027546811 
-+ + Testing Score: 0.04915427513155979 
-+ Accuracy: 0.049
+  + Training Score: 0.06487984027546811 
+  + Testing Score: 0.04915427513155979 
+  + Accuracy: 0.049
 
 ![linealreg_featureimp](Web/Images/model/linealreg_featureimp.png)
 ![linearreg_residualplot](Web/Images/model/linearreg_residualplot.png)
@@ -59,35 +59,35 @@ We also did a logistical regression in which it gaves us an accuracy of 70% for 
 ![log_unempoymentvssuiciden](Web/Images/model/log_unempoymentvssuicide.png)
 ![log_mentalsubvssuicide.png](Web/Images/model/log_mentalsubvssuicide.png)
 
-+Results 
-++ Accuracy：70.43% 
-++ Recall：0.00% 
-++ Precision：0.00% F1：0.00%
++ Results 
+  + Accuracy：70.43% 
+  + Recall：0.00% 
+  + Precision：0.00% F1：0.00%
 
 ![log_classificationreport](Web/Images/model/log_classificationreport.png)
 ![log_featureimportance](Web/Images/model/log_featureimportance.png)
 
 The next model we did was a random forest, in which we also got an accuracy of 73% but we got higher precisions and recall than the logistical model.
 
-+Results 
-++Training Data Score: 1.0 
-++Testing Data Score: 0.7364787111622555
++ Results 
+  + Training Data Score: 1.0 
+  + Testing Data Score: 0.7364787111622555
 
 ![randomforest_classificationreport](Web/Images/model/randomforest_classificationreport.png)
 ![randomforest_featureimp](Web/Images/model/randomforest_featureimp.png)
 
 Other models we tested were the SVR and SVM. In the SVR we got negative test scores which means are prediction is not that great and the parameters were not a fit for the data. It is focused on continous values to know how tolerant we are of errors, while SVM is focused on classification values (like the ones we employed).
 
-+Results 
-+ + Training Score: -0.3901860777815773 
-+ + Testing Score: -0.6574555206324033
++ Results 
+  + Training Score: -0.3901860777815773 
+  + Testing Score: -0.6574555206324033
 
 In the SVM we got good testing and training scores as well as an accuracy of 70.0%.
-+Results 
-++ Accuracy：70.43% 
-++ Recall：0.00% 
-++ Precision：0.00% 
-++ F1：0.00%
++ Results 
+  + Accuracy：70.43% 
+  + Recall：0.00% 
+  + Precision：0.00% 
+  + F1：0.00%
 
 
 ![svm_classificationreport](Web/Images/model/svm_classificationreport.png)
