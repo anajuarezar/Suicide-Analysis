@@ -8,7 +8,7 @@
 
 ### Our topic
 After our time in lockdown (due to the Pandemic), there has been a new focus on mental health. We will analyze suicide rates relating socio-demographic factors, political factors, and economical factors such as: unemployment, birthrate, alcohol consumption, population, global terrorism, climate change and more. In these factors, we are confident to find positive correlations and explanations for the increase in suicide rates (maintaining a global focus). We hope that with our findings, we can bring more awareness to this serious subject and those who find themselves in this situation can seek treament and help.
-![depressed](Web/Images/depressed.png)
+![depressed](Web/Images/depressed.jpg)
 
 ### Data Recopilation
 We used data from various resources such as world bank, our world in data, kaggle, and WHO. We hope that with this research, awareness can be raised so additional funding is done in welfare-state policies that may reduce the suicide rate mortality.
@@ -17,8 +17,7 @@ We used data from various resources such as world bank, our world in data, kaggl
 ### Data Cleaning
 The data was then cleaned through python to be able to merge all the databases together and have uniformity, as well as normalization between all variables.
 
-| Exploration |
-| --- |
+### Exploration 
 Data exploration was made through Tableau, in which we got an initial idea of the factors that would be impacted by suicide and a general consensus of the issue that was analyzed.
 ![dash_thumb](Web/Images/dash_thumb.png)
 
@@ -95,8 +94,7 @@ F1：0.00%
 Another model we did was the neural network, which was a good model for our prediction. 
 ![neuralnetwork](Web/Images/model/neuralnetwork.png)
 
-| Final Thoughts |
-| --- |
+### Final Thoughts
 In conclusion, SVM, Random Forest, and the Logistical Regression were the best fit for our data and our prediction (focus of study). We believe that this is an important cause that has increased during externalities such as the pandemic we are currently going through. Even though this is a difficult subject to bring forward (even when it comes to public policy), it is in our best interest that the awareness raised allows those found in this situation(and with the factors analyzed) to receive help.
 
 ![model_comparison](Web/Images/model/model_comparison.png)
