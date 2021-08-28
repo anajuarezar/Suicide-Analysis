@@ -19,6 +19,7 @@ The data was then cleaned through python to be able to merge all the databases t
 
 ### Exploration 
 Data exploration was made through Tableau, in which we got an initial idea of the factors that would be impacted by suicide and a general consensus of the issue that was analyzed.
+
 ![dash_thumb](Web/Images/dash_thumb.png)
 
 | Analysis |
