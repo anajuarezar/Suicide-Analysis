@@ -1,4 +1,4 @@
-# suicide-analysis
+# Understanding World Suicide Patterns
 ### Contributors
 + Angie Cruz
 + Ana Juarez
